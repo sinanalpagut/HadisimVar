@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Temel Renkler -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- 💎 TEMA 1: SAF SAFİR (Klasik Modern)                           -->
+    <!-- Güven ve huzur veren koyu lacivert tonları                     -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <color name="safir_primary">#1C2E4A</color>    <!-- Koyu Safir Mavisi -->
+    <color name="safir_primary_dark">#0F1A2E</color>    <!-- Derin Lacivert -->
+    <color name="safir_primary_light">#2D4A6E</color>    <!-- Açık Lacivert -->
+    <color name="safir_accent">#D4AF37</color>    <!-- Altın Sarısı -->
+    <color name="safir_background">#F8F9FA</color>    <!-- Kar Beyazı -->
+    <color name="safir_surface">#FFFFFF</color>
+    <color name="safir_on_primary">#FFFFFF</color>
+    <color name="safir_on_background">#1C2E4A</color>
+
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- 🌿 TEMA 2: MEDİNE YEŞİLİ (Geleneksel & Ruhani)                 -->
+    <!-- İslam sanatında sıkça kullanılan yeşil tonları                 -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <color name="medine_primary">#2D5A27</color>    <!-- Derin Orman Yeşili -->
+    <color name="medine_primary_dark">#1A3D18</color>    <!-- Koyu Orman -->
+    <color name="medine_primary_light">#4A7D42</color>    <!-- Yaprak Yeşili -->
+    <color name="medine_accent">#F5F5DC</color>    <!-- Krem/Bej -->
+    <color name="medine_background">#FFFDF5</color>    <!-- Yumuşak Fildişi -->
+    <color name="medine_surface">#FFFFF8</color>
+    <color name="medine_on_primary">#FFFFFF</color>
+    <color name="medine_on_background">#2D5A27</color>
+
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- 🌙 TEMA 3: GECE OKUMASI (Dark Mode / Premium)                  -->
+    <!-- Göz sağlığına önem veren karanlık tema                         -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <color name="gece_primary">#121212</color>    <!-- Kömür Siyahı -->
+    <color name="gece_primary_dark">#000000</color>    <!-- Saf Siyah -->
+    <color name="gece_primary_light">#1E1E1E</color>    <!-- Koyu Gri -->
+    <color name="gece_accent">#88D8B0</color>    <!-- Pastel Nane Yeşili -->
+    <color name="gece_background">#121212</color>    <!-- AMOLED Siyah -->
+    <color name="gece_surface">#1E1E1E</color>
+    <color name="gece_on_primary">#E0E0E0</color>
+    <color name="gece_on_background">#E0E0E0</color>    <!-- Açık Gri Metin -->
+
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- 🏜️ TEMA 4: SAHRA KUMLARI (Minimalist & Sıcak)                 -->
+    <!-- Yumuşak toprak tonları, kitap okuma hissi                      -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <color name="sahra_primary">#8E735B</color>    <!-- Sıcak Kahve/Taba -->
+    <color name="sahra_primary_dark">#5D4A3A</color>    <!-- Koyu Kahve -->
+    <color name="sahra_primary_light">#B8967A</color>    <!-- Açık Taba -->
+    <color name="sahra_accent">#C06C84</color>    <!-- Yanık Turuncu/Pembe -->
+    <color name="sahra_background">#F2E9E1</color>    <!-- Sıcak Kağıt Rengi -->
+    <color name="sahra_surface">#FFF8F3</color>
+    <color name="sahra_on_primary">#FFFFFF</color>
+    <color name="sahra_on_background">#5D4A3A</color>
+
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- 🏛️ TEMA 5: ASİL MERMER (Hafif & Ferah)                        -->
+    <!-- Minimalist, genç nesle hitap eden ferah arayüz                 -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <color name="mermer_primary">#708090</color>    <!-- Slate Gri -->
+    <color name="mermer_primary_dark">#4A5568</color>    <!-- Koyu Slate -->
+    <color name="mermer_primary_light">#94A3B8</color>    <!-- Açık Slate -->
+    <color name="mermer_accent">#40E0D0</color>    <!-- Turkuaz -->
+    <color name="mermer_background">#FFFFFF</color>    <!-- Saf Beyaz -->
+    <color name="mermer_surface">#F8FAFC</color>
+    <color name="mermer_on_primary">#FFFFFF</color>
+    <color name="mermer_on_background">#334155</color>
+
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- 🌅 TEMA 6: GÜN BATIMI (Motivasyonel)                           -->
+    <!-- Umut ve hidayet mesajlarını destekleyen sıcak palet            -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <color name="gunbatimi_primary">#5D2E46</color>    <!-- Derin Mürdüm -->
+    <color name="gunbatimi_primary_dark">#3D1E2E</color>    <!-- Koyu Mürdüm -->
+    <color name="gunbatimi_primary_light">#8B4367</color>    <!-- Açık Mürdüm -->
+    <color name="gunbatimi_accent">#FFCB6B</color>    <!-- Gün Batımı Sarısı -->
+    <color name="gunbatimi_background">#F9F5F6</color>    <!-- Çok Açık Pembe/Gri -->
+    <color name="gunbatimi_surface">#FFFFFF</color>
+    <color name="gunbatimi_on_primary">#FFFFFF</color>
+    <color name="gunbatimi_on_background">#5D2E46</color>
+
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- Sıhhat Durumu Renkleri                                         -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <color name="authenticity_sahih">#4CAF50</color>
+    <color name="authenticity_weak">#FF5722</color>
+    <color name="authenticity_other">#FFC107</color>
+
+    <!-- Ortak Renkler -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_dark">#1E1E1E</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Eski tema renkleri (uyumluluk için) -->
+    <color name="primary_green">@color/medine_primary</color>
+    <color name="primary_green_dark">@color/medine_primary_dark</color>
+    <color name="primary_green_light">@color/medine_primary_light</color>
+    <color name="secondary_green">@color/medine_accent</color>
+    <color name="accent_green">@color/medine_accent</color>
+
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <!-- ✨ TEMA 7: MİSTİK ALTIN LACİVERT (Lüks & Çekici)              -->
+    <!-- Derin lacivert arka plan, altın vurgular, premium his          -->
+    <!-- ═══════════════════════════════════════════════════════════════ -->
+    <color name="mistik_primary">#1A237E</color>    <!-- Derin Lacivert -->
+    <color name="mistik_primary_dark">#0D1B3E</color>    <!-- En Koyu Lacivert -->
+    <color name="mistik_primary_light">#3949AB</color>    <!-- Açık Lacivert -->
+    <color name="mistik_primary_mid">#283593</color>    <!-- Orta Lacivert -->
+    <color name="mistik_accent">#FFD700</color>    <!-- Altın Sarısı -->
+    <color name="mistik_accent_light">#FFE54C</color>    <!-- Açık Altın -->
+    <color name="mistik_accent_dark">#FF8F00</color>    <!-- Koyu Altın/Amber -->
+    <color name="mistik_background">#0D1B3E</color>    <!-- Gece Mavisi -->
+    <color name="mistik_surface">#1A237E</color>    <!-- Kart Arka Plan -->
+    <color name="mistik_on_primary">#FFFFFF</color>    <!-- Beyaz Metin -->
+    <color name="mistik_on_background">#E8EAF6</color>    <!-- Açık Mavi Metin -->
+
+    <!-- Glassmorphism Efekt Renkleri -->
+    <color name="glass_white_15">#26FFFFFF</color>    <!-- %15 Beyaz -->
+    <color name="glass_white_30">#4DFFFFFF</color>    <!-- %30 Beyaz -->
+    <color name="glass_white_50">#80FFFFFF</color>    <!-- %50 Beyaz -->
+    <color name="glass_border">#40FFD700</color>    <!-- Altın Kenarlık -->
+    <color name="glass_border_light">#60FFFFFF</color>    <!-- Beyaz Kenarlık -->
+
+    <!-- Premium Vurgu Renkleri -->
+    <color name="coral_red">#FF6B6B</color>    <!-- Coral Kırmızı (FAB) -->
+    <color name="coral_dark">#E55353</color>    <!-- Koyu Coral -->
+    <color name="gradient_start">#0D1B3E</color>    <!-- Gradient Başlangıç -->
+    <color name="gradient_center">#1A237E</color>    <!-- Gradient Orta -->
+    <color name="gradient_end">#3949AB</color>    <!-- Gradient Bitiş -->
+
+    <!-- Shimmer/Parlama Efekti -->
+    <color name="shimmer_gold">#FFFFD740</color>    <!-- Parlak Altın -->
+    <color name="shimmer_white">#CCFFFFFF</color>    <!-- Parlak Beyaz -->
+</resources>

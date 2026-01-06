@@ -1,0 +1,2438 @@
+[
+  {
+    "content": "Temizlik imanın yarısıdır.",
+    "source": "Müslim, Taharet, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Maddi ve manevi temizlik (kalp ve beden temizliği), kamil bir imanın vazgeçilmez bir parçası ve gereğidir.",
+    "topics": "Temizlik,İman"
+  },
+  {
+    "content": "Kolaylaştırınız, zorlaştırmayınız; müjdeleyiniz, nefret ettirmeyiniz.",
+    "source": "Buhârî, İlim, 11",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İslam dininin tebliğinde ve öğretilmesinde temel prensip; sevgi, kolaylık, hoşgörü ve ümit vermektir.",
+    "topics": "Tebliğ,Kolaylık,Hoşgörü"
+  },
+  {
+    "content": "Ameller niyetlere göredir. Herkese niyet ettiği şey vardır.",
+    "source": "Buhârî, Bed'ül-Vahy, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Yapılan her işin Allah katındaki değeri, o işi yapan kişinin kalbindeki niyete ve samimiyetine bağlıdır.",
+    "topics": "Niyet,İhlas,Amel"
+  },
+  {
+    "content": "Sizin en hayırlınız, Kur'an'ı öğrenen ve öğretendir.",
+    "source": "Tirmizi, Fedailü'l-Kur'an, 15",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Kur'an-ı Kerim ile meşgul olmak, onu anlamak ve başkalarına anlatmak bir müslümanın yapabileceği en şerefli iştir.",
+    "topics": "Kuran,İlim,Eğitim"
+  },
+  {
+    "content": "Sözün en güzeli Allah'ın kitabı; yolların en doğrusu Muhammed'in yoludur.",
+    "source": "Buhârî, İ'tisâm, 2",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "En büyük rehber Kur'an ve onu hayatına en mükemmel şekilde uygulayan Hz. Muhammed'in (s.a.v) sünnetidir.",
+    "topics": "Kuran,Sünnet,Rehberlik"
+  },
+  {
+    "content": "Hiçbiriniz, kendisi için istediğini kardeşi için de istemedikçe (tam) iman etmiş olmaz.",
+    "source": "Buhârî, İman, 7",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Empati kurmak ve din kardeşinin iyiliğini kendi iyiliği gibi istemek, olgun bir imanın işaretidir.",
+    "topics": "Kardeşlik,İman,Empati"
+  },
+  {
+    "content": "Müslüman, elinden ve dilinden diğer Müslümanların emin olduğu kimsedir.",
+    "source": "Buhârî, İman, 4",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Gerçek müslüman, çevresine güven veren, sözüyle veya davranışıyla kimseye zarar vermeyen kimsedir.",
+    "topics": "Güven,Ahlak,Müslüman"
+  },
+  {
+    "content": "İnsanlara merhamet etmeyene Allah da merhamet etmez.",
+    "source": "Buhârî, Edeb, 18",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Allah'ın rahmetini uman kişi, O'nun yarattıklarına şefkat ve merhametle yaklaşmalıdır.",
+    "topics": "Merhamet,Rahmet"
+  },
+  {
+    "content": "Bizi aldatan bizden değildir.",
+    "source": "Müslim, İman, 164",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Dürüstlük İslam ahlakının temelidir. Hile, yalan ve kandırma müslümana asla yakışmaz.",
+    "topics": "Dürüstlük,Güven,Ticaret"
+  },
+  {
+    "content": "Sadaka verip de sadakasını başa kakan kimse cennete giremez.",
+    "source": "Nesâî, Zekât, 69",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Yapılan iyiliği başa kakmak ve minnet altına almak, o iyiliğin sevabını yok eder ve günahtır.",
+    "topics": "Sadaka,Riya,Ahlak"
+  },
+  {
+    "content": "Güzel söz sadakadır.",
+    "source": "Buhârî, Edeb, 34",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İnsanların gönlünü hoş eden, onlara moral veren her türlü güzel konuşma manevi bir sadakadır.",
+    "topics": "Sadaka,Konuşma,Nezaket"
+  },
+  {
+    "content": "Mümin, bir delikten iki defa ısırılmaz (aynı hataya iki kez düşmez).",
+    "source": "Buhârî, Edeb, 83",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Mümin uyanıktır; başına gelen bir musibetten veya hatadan ders alır, aynı hataya tekrar düşmez.",
+    "topics": "Tedbir,Akıl,Tecrübe"
+  },
+  {
+    "content": "Her dinin bir ahlakı vardır; İslam'ın ahlakı da hayadır.",
+    "source": "İbn Mâce, Zühd, 17",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Hasen",
+    "explanation": "Haya (utanma duygusu), İslam'ın en belirgin karakteristiğidir ve kötülüklerden alıkoyan bir kalkandır.",
+    "topics": "Haya,Ahlak,İslam"
+  },
+  {
+    "content": "Kıyamet günü müminin terazisinde en ağır basacak şey güzel ahlaktır.",
+    "source": "Tirmizi, Birr, 62",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İbadetlerin yanında, insanlarla iyi geçinmek ve güzel ahlak sahibi olmak ahirette en büyük kazançtır.",
+    "topics": "Ahlak,Ahiret,Terazi"
+  },
+  {
+    "content": "Bir iyiliğe öncülük eden kimseye, o iyiliği yapanın ecri kadar sevap vardır.",
+    "source": "Müslim, İmâre, 133",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Hayra vesile olmak, o hayrı bizzat işlemek gibi sevap kazandırır. İyiliği teşvik etmek önemlidir.",
+    "topics": "Hayır,Teşvik,Sevap"
+  },
+  {
+    "content": "İki nimet vardır ki, insanların çoğu bunların kıymetini bilmez: Sağlık ve boş vakit.",
+    "source": "Buhârî, Rikak, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Zaman ve sağlık, kaybedildiğinde değeri anlaşılan ve en çok israf edilen iki büyük sermayedir.",
+    "topics": "Zaman,Sağlık,Şükür"
+  },
+  {
+    "content": "Cennet annelerin ayakları altındadır.",
+    "source": "Nesâî, Cihad, 6",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Anne rızası kazanmak ve ona hizmet etmek, cennete girmenin en önemli anahtarlarından biridir.",
+    "topics": "Anne,Saygı,Cennet"
+  },
+  {
+    "content": "Komşusu açken tok yatan bizden değildir.",
+    "source": "Hâkim, Müstedrek, 2/15",
+    "source_category": "Diğer",
+    "authenticity": "Sahih",
+    "explanation": "Toplumsal dayanışma mümin olmanın gereklerindendir. Çevresindeki muhtaçlara duyarsız kalınamaz.",
+    "topics": "Komşuluk,Yardımlaşma,Sorumluluk"
+  },
+  {
+    "content": "Tebessüm sadakadır.",
+    "source": "Tirmizi, Birr, 36",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Güleryüzlü olmak, insanların kalbini ferahlatmak maddi külfeti olmayan ama büyük sevap getiren bir eylemdir.",
+    "topics": "Tebessüm,Ahlak,Sadaka"
+  },
+  {
+    "content": "Kişi sevdiği ile beraberdir.",
+    "source": "Buhârî, Edeb, 96",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İnsan dünyada kimi sever ve kimin peşinden giderse, ahirette de onunla haşrolunacaktır.",
+    "topics": "Sevgi,Dostluk,Ahiret"
+  },
+  {
+    "content": "Siz yerdekilere merhamet edin ki, göktekiler de size merhamet etsin.",
+    "source": "Tirmizi, Birr, 16",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İlahi rahmete kavuşmanın yolu, yeryüzündeki tüm canlılara şefkat ve merhamet göstermekten geçer.",
+    "topics": "Merhamet,Şefkat,Dua"
+  },
+  {
+    "content": "Allah güzeldir, güzelliği sever.",
+    "source": "Müslim, İman, 147",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Allah'ın zatı, sıfatları ve fiilleri güzeldir. O, kullarının da iç ve dış dünyalarını güzelleştirmelerini ister.",
+    "topics": "Güzellik,Allah,Estetik"
+  },
+  {
+    "content": "İşçiye ücretini teri kurumadan veriniz.",
+    "source": "İbn Mâce, Ruhûn, 4",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Hasen",
+    "explanation": "Emek kutsaldır. Çalışanın hakkını geciktirmeden ve eksiksiz vermek, İslam'ın iş ahlakının temelidir.",
+    "topics": "Emek,Hak,Adalet"
+  },
+  {
+    "content": "Kim Allah'a ve ahiret gününe inanıyorsa misafirine ikram etsin.",
+    "source": "Buhârî, Edeb, 31",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Misafirperverlik, imanın bir göstergesidir. İkramda bulunmak cömertliği ve toplumsal bağları güçlendirir.",
+    "topics": "Misafir,Cömertlik,İman"
+  },
+  {
+    "content": "Kim Allah'a ve ahiret gününe inanıyorsa ya hayır söylesin ya da sussun.",
+    "source": "Buhârî, Edeb, 31",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Dilin afetlerinden korunmak için, faydalı bir söz söylenmeyecekse susmak en hayırlı davranıştır.",
+    "topics": "Dil,Konuşma,Edep"
+  },
+  {
+    "content": "Mazlumun bedduasından sakının. Çünkü onunla Allah arasında bir perde yoktur.",
+    "source": "Buhârî, Mezâlim, 9",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Zulme uğrayan kişinin duası kabul olunur. Kul hakkına girmekten ve insanlara haksızlık etmekten şiddetle kaçınılmalıdır.",
+    "topics": "Zulüm,Dua,Hak"
+  },
+  {
+    "content": "Danışan pişman olmaz, istişare eden zarar etmez.",
+    "source": "Heysemî, Mecmeu'z-Zevâid, 2/280",
+    "source_category": "Diğer",
+    "authenticity": "Zayıf",
+    "explanation": "Bir işe başlamadan önce ehil kişilerle fikir alışverişinde bulunmak, hatayı azaltır ve başarıyı artırır.",
+    "topics": "İstişare,Danışma,Karar"
+  },
+  {
+    "content": "Cömert, Allah'a yakındır, insanlara yakındır, cennete yakındır.",
+    "source": "Tirmizî, Birr, 40",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Paylaşmak ve cömertlik, insanı hem Allah'ın rızasına hem de insanların sevgisine ulaştırır.",
+    "topics": "Cömertlik,Sevgi,Cennet"
+  },
+  {
+    "content": "Öfke şeytandandır. Şeytan ateşten yaratılmıştır. Ateş su ile söndürülür. Öfkelendiğiniz zaman abdest alın.",
+    "source": "Ebû Dâvûd, Edeb, 3",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Hasen",
+    "explanation": "Öfke anında fiziksel ve manevi bir arınma yöntemi olarak abdest almak, kişiyi sakinleştirir ve dengeler.",
+    "topics": "Öfke,Sabır,Abdest"
+  },
+  {
+    "content": "Küçüklerimize merhamet etmeyen, büyüklerimize saygı göstermeyen bizden değildir.",
+    "source": "Tirmizî, Birr, 15",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Toplumsal düzen sevgi ve saygı dengesine dayanır. Küçüklere şefkat, büyüklere hürmet esastır.",
+    "topics": "Saygı,Sevgi,Ahlak"
+  },
+  {
+    "content": "Dünya müminin zindanı, kafirin cennetidir.",
+    "source": "Müslim, Zühd, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Mümin için ahiret nimetleri o kadar büyüktür ki dünya hayatı onun yanında zindan gibi kalır.",
+    "topics": "Dünya,Ahiret,Zühd"
+  },
+  {
+    "content": "Müminler, birbirlerini sevmekte, birbirlerine acımakta ve birbirlerini korumakta bir vücuda benzerler.",
+    "source": "Buhârî, Edeb, 27",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Müslümanlar tek bir beden gibidir; birinin derdi tüm toplumu ilgilendirir ve üzmelidir.",
+    "topics": "Kardeşlik,Birlik,Dayanışma"
+  },
+  {
+    "content": "En faziletli amel, vaktinde kılınan namazdır.",
+    "source": "Buhârî, Mevâkît, 5",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Namazı vaktinde kılmak, Allah'a olan kulluk borcunu önceliklendirmenin ve ona sadkatin işaretidir.",
+    "topics": "Namaz,İbadet,Vakit"
+  },
+  {
+    "content": "Dua, müminin silahıdır.",
+    "source": "Hâkim, Müstedrek, 1/492",
+    "source_category": "Diğer",
+    "authenticity": "Sahih",
+    "explanation": "Zorluklar ve sıkıntılar karşısında müminin en büyük gücü ve sığınağı Allah'a yaptığı duadır.",
+    "topics": "Dua,Tevekkül,Güç"
+  },
+  {
+    "content": "Hasedden (kıskançlıktan) sakının. Çünkü ateşin odunu yiyip bitirdiği gibi hased de iyilikleri yer bitirir.",
+    "source": "Ebû Dâvûd, Edeb, 44",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Başkasının sahip olduklarını kıskanmak, kişinin kendi manevi kazanımlarını yok eden tehlikeli bir duygudur.",
+    "topics": "Haset,Kıskançlık,Nefis"
+  },
+  {
+    "content": "İlim talep etmek her Müslümana farzdır.",
+    "source": "İbn Mâce, Mukaddime, 17",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Kadın erkek ayrımı olmaksızın her müslümanın kendini geliştirmesi ve ilim öğrenmesi dini bir yükümlülüktür.",
+    "topics": "İlim,Eğitim,Farz"
+  },
+  {
+    "content": "Yarım hurma ile de olsa kendinizi ateşten koruyun (sadaka verin).",
+    "source": "Buhârî, Edeb, 34",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İyiliğin küçüğü büyüğü olmaz. İmkanlar ölçüsünde yapılan her yardım kişiyi manevi zararlardan korur.",
+    "topics": "Sadaka,İyilik,Yardımlaşma"
+  },
+  {
+    "content": "Veren el, alan elden üstündür.",
+    "source": "Buhârî, Zekât, 18",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Müslüman, başkasına el açan değil, çalışıp kazanan ve ihtiyacı olana yardım eden konumunda olmalıdır.",
+    "topics": "İnfak,Çalışma,İzzet"
+  },
+  {
+    "content": "Hiç kimse elinin emeğinden daha hayırlı bir yemek yememiştir.",
+    "source": "Buhârî, Büyû, 15",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Kendi emeğiyle ve alın teriyle kazanılan rızık, en helal ve en bereketli kazançtır.",
+    "topics": "Emek,Helal Kazanç,Çalışma"
+  },
+  {
+    "content": "İnsanoğlu hata yapar. Hata yapanların en hayırlısı tövbe edenlerdir.",
+    "source": "Tirmizî, Kıyâmet, 49",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Hasen",
+    "explanation": "İnsan kusursuz değildir ve hata yapmak fıtratının bir parçasıdır. Önemli olan hatada ısrar etmemek, pişman olup tövbe etmektir. Tövbe, kulun Rabbine yönelmesi ve O'nun affını dilemesidir.",
+    "topics": "Tövbe,Hata,Mağfiret"
+  },
+  {
+    "content": "Nerede olursan ol Allah'tan (O'na karşı gelmekten) sakın.",
+    "source": "Tirmizî, Birr, 55",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Hasen",
+    "explanation": "Takva, yalnız başına kalındığında bile Allah'ı hatırlayıp günahlardan uzak durmaktır. Kimsenin görmediği yerde de Allah'ın gördüğünü bilmek, imanın kemalidir.",
+    "topics": "Takva,Allah Korkusu,İman"
+  },
+  {
+    "content": "Kardeşine gülümen senin için bir sadakadır.",
+    "source": "Tirmizi, Birr, 36",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İslam'da iyilik sadece maddi yardımla sınırlı değildir. Güler yüz göstermek, insanların kalbini ferahlatmak ve sevgi yaymak da değerli bir sadaka sayılır.",
+    "topics": "Tebessüm,Sadaka,Kardeşlik"
+  },
+  {
+    "content": "Şüpheli şeylerden sakınan, dinini ve ırzını korumuş olur.",
+    "source": "Buhârî, İman, 39",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Helal ve haram arasındaki şüpheli konulardan uzak durmak, dini hassasiyetin ve temiz bir hayatın göstergesidir. Bu, kalbin korunması için gereklidir.",
+    "topics": "Helal-Haram,Takva,Şüpheli"
+  },
+  {
+    "content": "Bildiğinle amel et, bilmediğini Allah öğretir.",
+    "source": "Aclûnî, Keşfü'l-Hafâ, 1/136",
+    "source_category": "Diğer",
+    "authenticity": "Zayıf",
+    "explanation": "İlim ile amel arasındaki bağ çok önemlidir. Öğrenilen bilgiyle amel edilirse, Allah daha fazla ilim kapıları açar. Amel edilmeyen ilim ise bereketini kaybeder.",
+    "topics": "İlim,Amel,Bereket"
+  },
+  {
+    "content": "Kim bir hayra vesile olursa, ona o hayrı yapanın ecri kadar sevap vardır.",
+    "source": "Müslim, İmâre, 133",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İyiliğe yol göstermek, o iyiliği yapmak kadar değerlidir. Hayır işlerinde öncü olmak ve başkalarını teşvik etmek büyük sevaptır.",
+    "topics": "Hayır,Sevap,Teşvik"
+  },
+  {
+    "content": "Allah'ın rızası anne babanın rızasındadır.",
+    "source": "Tirmizi, Birr, 3",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Anne ve babayı memnun etmek, Allah'ın rızasını kazanmanın en önemli yollarından biridir. Onların hoşnutluğu ahirette kurtuluşa vesiledir.",
+    "topics": "Anne Baba,Rıza,Hürmet"
+  },
+  {
+    "content": "Ümmetimin fesada uğradığı zamanda sünnetime yapışana yüz şehit sevabı vardır.",
+    "source": "Heysemî, Mecmeu'z-Zevâid, 1/172",
+    "source_category": "Diğer",
+    "authenticity": "Zayıf",
+    "explanation": "Fitne ve bozulma dönemlerinde sünnete sarılmak zorlaşır. Bu zorluğa rağmen sünnet üzere yaşayanlar büyük mükafatı hak ederler.",
+    "topics": "Sünnet,Fitne,Sevap"
+  },
+  {
+    "content": "Size iki şey bırakıyorum. Onlara sımsıkı sarıldığınız sürece yolunuzu şaşırmazsınız: Allah'ın Kitabı ve Peygamberinin Sünneti.",
+    "source": "Muvatta, Kader, 3",
+    "source_category": "Diğer",
+    "authenticity": "Sahih",
+    "explanation": "Kur'an ve Sünnet, İslam'ın iki temel kaynağıdır. Bunlara tutunan sapıtmaz, uzaklaşan ise yolunu kaybeder.",
+    "topics": "Kuran,Sünnet,Hidayet"
+  },
+  {
+    "content": "Mümin kardeşinle münakaşa etme, onun hoşuna gitmeyecek şakalar yapma ve ona yerine getiremeyeceğin bir söz verme.",
+    "source": "Tirmizî, Birr, 58",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Hasen",
+    "explanation": "Müslümanlar arası ilişkilerde dikkat edilmesi gereken üç önemli konu: tartışmadan kaçınmak, incitici şakalar yapmamak ve verilen sözü tutmak.",
+    "topics": "Kardeşlik,Söz,Edep"
+  },
+  {
+    "content": "Hediyeleşin ki birbirinize olan muhabbetiniz artsın.",
+    "source": "Muvatta, Hüsnü'l-Hulk, 4",
+    "source_category": "Diğer",
+    "authenticity": "Hasen",
+    "explanation": "Hediyeleşmek, kalpleri birbirine yaklaştırır ve sevgiyi pekiştirir. Bu, toplumsal bağları güçlendiren güzel bir sünnettir.",
+    "topics": "Hediye,Sevgi,Muhabbet"
+  },
+  {
+    "content": "İnsanda bir organ vardır. Eğer o sağlıklı ise bütün vücut sağlıklı olur; eğer o bozulursa bütün vücut bozulur. Dikkat edin! O, kalptir.",
+    "source": "Buhârî, İman, 39",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Kalp, insanın manevi merkezidir. Kalbin düzelmesi tüm amellerin düzelmesine, bozulması ise tüm hayatın bozulmasına sebep olur.",
+    "topics": "Kalp,Nefs,Tezkiye"
+  },
+  {
+    "content": "Mümin, insanların canları ve malları hususunda kendisinden emin olduğu kimsedir.",
+    "source": "Tirmizî, İman, 12",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Gerçek mümin, çevresine güven veren kişidir. Kimsenin canına ve malına zarar vermez, güvenilir biridir.",
+    "topics": "Güven,Emin,İman"
+  },
+  {
+    "content": "Allah'ım! Fayda vermeyen ilimden, huşu duymayan kalpten, doymayan nefisten ve kabul edilmeyen duadan sana sığınırım.",
+    "source": "Müslim, Zikir, 73",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Hz. Peygamber'in bu duası, ilmin faydalı olması, kalbin yumuşak olması, nefsin kanaatkâr olması ve duanın makbul olması için yalvarıştır.",
+    "topics": "Dua,İlim,Kalp"
+  },
+  {
+    "content": "Diliyle insanları kıran kimseyi, Allah (kıyamet günü) diliyle ateşe atar.",
+    "source": "Tirmizî, İman, 8",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Hasen",
+    "explanation": "Dil, en çok günaha sebep olan organdır. Başkalarını inciten sözler, ahirette büyük cezalara yol açar.",
+    "topics": "Dil,Günah,Uyarı"
+  },
+  {
+    "content": "Kıyamet gününde müminin mizanında güzel ahlaktan daha ağır basacak bir şey yoktur.",
+    "source": "Tirmizî, Birr, 62",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Güzel ahlak, ahiret gününde en ağır basacak ameldir. İbadetlerin yanında insanlara iyi davranmak büyük önem taşır.",
+    "topics": "Ahlak,Terazi,Ahiret"
+  },
+  {
+    "content": "Bir Müslümanın, din kardeşine üç günden fazla küsmesi helal değildir.",
+    "source": "Buhârî, Edeb, 57",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İslam, Müslümanlar arasındaki kırgınlıkların uzun sürmemesini ister. Küslük, kalpleri karartır ve toplumu böler.",
+    "topics": "Kardeşlik,Küsmek,Barış"
+  },
+  {
+    "content": "Allah Teâlâ, yaşından ötürü bir ihtiyara saygı gösteren gence, yaşlılığında hizmet edecek kimseler lütfeder.",
+    "source": "Tirmizî, Birr, 75",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Hasen",
+    "explanation": "Yaşlılara saygı göstermek, Allah'ın bir bereketi olarak kişinin kendisi yaşlandığında da saygı görmesine vesile olur.",
+    "topics": "Yaşlılara Saygı,Bereket,Gençlik"
+  },
+  {
+    "content": "Üç dua vardır ki, bunlar şüphesiz kabul edilir: Mazlumun duası, misafirin duası ve babanın evladına duası.",
+    "source": "İbn Mâce, Dua, 11",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Hasen",
+    "explanation": "Bu üç dua, Allah katında özel bir makama sahiptir. Zulme uğrayan, yolculukta olan ve evladı için dua eden ebeveynin duaları reddedilmez.",
+    "topics": "Dua,Kabul,Mazlum"
+  },
+  {
+    "content": "Kim Allah için tevazu gösterirse, Allah onu yükseltir.",
+    "source": "Müslim, Birr, 69",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Allah için alçak gönüllü olan, insanlar arasında değer kazanır ve Allah katında dereceleri yükselir. Tevazu, yüceliğe götüren yoldur.",
+    "topics": "Tevazu,Yükselme,Ahlak"
+  },
+  {
+    "content": "Müslüman Müslümanın kardeşidir. Ona zulmetmez, onu (düşmana) teslim etmez.",
+    "source": "Buhârî, Mezâlim, 3",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İslam kardeşliği, birbirine haksızlık etmemeyi ve zor günde yalnız bırakmamayı gerektirir. Gerçek kardeşlik bu şekilde olur.",
+    "topics": "Kardeşlik,Zulüm,Destek"
+  },
+  {
+    "content": "İnsanların en hayırlısı, insanlara en faydalı olandır.",
+    "source": "Dârekutnî, 3/492",
+    "source_category": "Diğer",
+    "authenticity": "Hasen",
+    "explanation": "İslam'da en değerli insan, başkalarına en çok fayda sağlayan kişidir. İnsanlara hizmet, Allah'a yakınlığın en güzel yoludur.",
+    "topics": "Fayda,Hizmet,Hayır"
+  },
+  {
+    "content": "Kuvvetli mümin, (Allah katında) zayıf müminden daha hayırlı ve daha sevimlidir.",
+    "source": "Müslim, Kader, 34",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Kuvvetli olmak sadece fiziksel değil, irade, iman ve kararlılık açısından da anlaşılmalıdır. Güçlü mümin, hayra daha çok vesile olur.",
+    "topics": "Kuvvet,İrade,Mümin"
+  },
+  {
+    "content": "Doğruluk iyiliğe, iyilik cennete götürür.",
+    "source": "Buhârî, Edeb, 69",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Doğruluk (sıdk), insanı hayırlı işlere yönlendirir ve sonunda cennete ulaştırır. Doğruluk, tüm güzel ahlakın temelidir.",
+    "topics": "Doğruluk,İyilik,Cennet"
+  },
+  {
+    "content": "Yalan kötülüğe, kötülük cehenneme götürür.",
+    "source": "Buhârî, Edeb, 69",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Yalan, insanı kötülüklere sürükler ve sonunda cehenneme götürür. Yalanın sonu hüsrandır.",
+    "topics": "Yalan,Kötülük,Cehennem"
+  },
+  {
+    "content": "Münafığın alameti üçtür: Konuşunca yalan söyler, söz verince sözünden döner, kendisine bir şey emanet edilince hıyanet eder.",
+    "source": "Buhârî, İman, 24",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Bu üç özellik, münafıklığın belirtileridir: yalancılık, sözünde durmamak ve emanete hıyanet. Bunlardan kaçınmak farzdır.",
+    "topics": "Münafıklık,Yalan,Emanet"
+  },
+  {
+    "content": "Cennet kılıçların gölgesi altındadır.",
+    "source": "Buhârî, Cihad, 22",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Allah yolunda mücadele etmek ve gerektiğinde canını feda etmeye hazır olmak, cennete götüren ulvi bir ameldir.",
+    "topics": "Cihad,Cennet,Fedakarlık"
+  },
+  {
+    "content": "Her ümmetin bir fitnesi (imtihanı) vardır. Benim ümmetimin fitnesi de maldır.",
+    "source": "Tirmizî, Zühd, 26",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Her ümmetin sınandığı bir alan vardır. Bu ümmeti en çok mal sevgisi ile imtihan edilmektedir. Mala bağlanmak temel sınavdır.",
+    "topics": "Fitne,Mal,İmtihan"
+  },
+  {
+    "content": "Zenginlik mal çokluğu değil, gönül tokluğudur.",
+    "source": "Buhârî, Rikak, 15",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Gerçek zenginlik çok mal sahibi olmak değil, eldekine razı olmaktır. Kanaat, tükenmez bir hazinedir.",
+    "topics": "Kanaat,Zenginlik,Şükür"
+  },
+  {
+    "content": "Akrabalık bağını kesen cennete giremez.",
+    "source": "Buhârî, Edeb, 11",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Akraba ziyareti ve ilişkileri sürdürmek (sıla-i rahim), İslam'ın en önemli emirlerinden biridir. Bunu kesmek büyük günahtır.",
+    "topics": "Akraba,Sıla-i Rahim,Cennet"
+  },
+  {
+    "content": "Bela, insanın ağzından çıkan söze bağlıdır.",
+    "source": "Aclûnî, Keşfü'l-Hafâ, 1/287",
+    "source_category": "Diğer",
+    "authenticity": "Zayıf",
+    "explanation": "İnsanın başına gelen birçok bela, ağzından çıkan sözlerden kaynaklanır. Dikkatli konuşmak belalardan korunmanın yoludur.",
+    "topics": "Dil,Bela,Dikkat"
+  },
+  {
+    "content": "İstişare eden (danışan) güvenilir kişidir.",
+    "source": "Tirmizî, Edeb, 57",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Hasen",
+    "explanation": "Danıştığı kişiye güvenen ve onun fikrini değerlendiren kimse güvenilir sayılır. İstişare etmek olgunluk işaretidir.",
+    "topics": "İstişare,Güven,Danışma"
+  },
+  {
+    "content": "İki kişi arasında adaletle hükmetmek sadakadır.",
+    "source": "Buhârî, Sulh, 11",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İnsanlar arasında hakkaniyetle karar vermek, toplumsal barışı sağlar ve büyük bir iyiliktir.",
+    "topics": "Adalet,Sulh,Sadaka"
+  },
+  {
+    "content": "Yoldan rahatsız edici bir şeyi kaldırmak sadakadır.",
+    "source": "Buhârî, Cihad, 128",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Başkalarının geçeceği yoldan zararlı bir nesneyi kaldırmak, topluma yapılan bir iyiliktir ve sadaka sevabı kazandırır.",
+    "topics": "Sadaka,Toplum,Yol"
+  },
+  {
+    "content": "Allah temizdir, temizi sever.",
+    "source": "Tirmizî, Edeb, 41",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Allah mutlak temizdir ve kullarının da maddi ve manevi olarak temiz olmalarını sever. Temizlik imanın gereğidir.",
+    "topics": "Temizlik,Allah,Sevgi"
+  },
+  {
+    "content": "Kur'an'ı sesinizle güzelleştiriniz.",
+    "source": "Ebû Dâvûd, Vitir, 20",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Kur'an'ı güzel sesle ve tertil üzere okumak, hem okuyucuyu hem dinleyeni etkiler. Güzel tilavet sünnettir.",
+    "topics": "Kuran,Tilavet,Güzellik"
+  },
+  {
+    "content": "Namaz dinin direğidir.",
+    "source": "Tirmizî, İman, 8",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Hasen",
+    "explanation": "Namaz, İslam'ın temel ibadetidir ve dini ayakta tutan en önemli direktir. Namazı terk eden, dinin direğini yıkmış olur.",
+    "topics": "Namaz,İbadet,Din"
+  },
+  {
+    "content": "Sabır, ilk sarsıntı anında olandır.",
+    "source": "Buhârî, Cenâiz, 32",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Gerçek sabır, musibetin ilk anında gösterilen tahammüldür. Sonradan sabretmek daha kolaydır; asıl zorluk başlangıçtadır.",
+    "topics": "Sabır,Musibet,Tahammül"
+  },
+  {
+    "content": "Hiçbir baba, çocuğuna güzel ahlaktan daha kıymetli bir miras bırakmamıştır.",
+    "source": "Tirmizî, Birr, 33",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Çocuklara bırakılacak en değerli miras, güzel ahlak terbiyesidir. Mal mülk tükenir, güzel ahlak kalıcıdır.",
+    "topics": "Eğitim,Ahlak,Miras"
+  },
+  {
+    "content": "Kanaat tükenmez bir hazinedir.",
+    "source": "Taberânî, Kebir, 10/162",
+    "source_category": "Diğer",
+    "authenticity": "Hasen",
+    "explanation": "Elindekine razı olan insan, hiçbir zaman fakir olmaz. Kanaat, gönül zenginliğidir ve bitmez bir hazinedir.",
+    "topics": "Kanaat,Şükür,Hazine"
+  },
+  {
+    "content": "Utanmadıktan sonra dilediğini yap!",
+    "source": "Buhârî, Enbiyâ, 54",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Haya duygusu kaybedildiğinde, insanı kötülüklerden alıkoyacak bir engel kalmaz. Haya, ahlakın koruyucusudur.",
+    "topics": "Haya,Ahlak,Edep"
+  },
+  {
+    "content": "Müjdeleyiniz, nefret ettirmeyiniz; kolaylaştırınız, zorlaştırmayınız.",
+    "source": "Müslim, Cihad, 6",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Dini tebliğ ederken ve insanlara yaklaşırken yumuşak, müjdeleyici ve kolaylaştırıcı olmak gerekir.",
+    "topics": "Tebliğ,Kolaylık,Merhamet"
+  },
+  {
+    "content": "İlim Müslümanın yitiğidir, nerede bulursa alır.",
+    "source": "Tirmizî, İlim, 19",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Zayıf",
+    "explanation": "Faydalı bilgi, müslümanın kaybettiği bir değerdir. Onu nerede, kimden bulursa alsın, çünkü hikmet müminin yitiği malıdır.",
+    "topics": "İlim,Hikmet,Öğrenme"
+  },
+  {
+    "content": "Su nasıl ateşi söndürürse, sadaka da hataları öyle siler süpürür.",
+    "source": "Tirmizî, Cuma, 79",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Sadaka vermek, günahların affına vesiledir. Nasıl su ateşi söndürürse, infak da manevi kirleri temizler.",
+    "topics": "Sadaka,Günahlar,Temizlik"
+  },
+  {
+    "content": "Mazlumun bedduasından sakının, çünkü o, Allah'a bulutsuz olarak yükselir.",
+    "source": "Buhârî, Vekale, 13",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Haksızlığa uğrayanın bedduası önünde engel yoktur, doğrudan Allah'a ulaşır. Zulmetmekten şiddetle kaçınmak gerekir.",
+    "topics": "Mazlum,Dua,Zulüm"
+  },
+  {
+    "content": "Dünyada bir garip yahut bir yolcu gibi ol!",
+    "source": "Buhârî, Rikak, 3",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Dünya geçici bir duraktır, asıl yurt ahirettir. İnsan kendini bu dünyaya ait saymayıp ahirete hazırlanmalıdır.",
+    "topics": "Dünya,Zühd,Yolcu"
+  },
+  {
+    "content": "Beş şey gelmeden önce beş şeyin kıymetini bil: İhtiyarlıktan önce gençliğin, hastalıktan önce sağlığın, fakirlikten önce zenginliğin, meşguliyetten önce boş vaktin ve ölümden önce hayatın.",
+    "source": "Hâkim, Müstedrek, 4/306",
+    "source_category": "Diğer",
+    "authenticity": "Sahih",
+    "explanation": "Bu beş değer, kaybedildikten sonra anlaşılır. Bunları değerlendirmek için acele etmek gerekir.",
+    "topics": "Gençlik,Sağlık,Zaman"
+  },
+  {
+    "content": "Kıyamet kopuyor olsa bile elinizdeki fidanı dikiniz.",
+    "source": "Buhârî, Edebü'l-Müfred, 168",
+    "source_category": "Diğer",
+    "authenticity": "Sahih",
+    "explanation": "Bu hadis, ümitsizliğe kapılmamayı ve son ana kadar üretken olmayı öğütler. Hayra çalışmak her an değerlidir.",
+    "topics": "Ümit,Çalışma,Doğa"
+  },
+  {
+    "content": "Her şeyin bir yolu vardır, cennetin yolu da ilimdir.",
+    "source": "Deylemî, Müsned, 3/336",
+    "source_category": "Diğer",
+    "authenticity": "Zayıf",
+    "explanation": "İlim öğrenmek, cennete giden yolun başlangıcıdır. Bilgi olmadan doğru amel yapılamaz.",
+    "topics": "İlim,Cennet,Yol"
+  },
+  {
+    "content": "Cemaat rahmet, ayrılık azaptır.",
+    "source": "Müsned, 4/278",
+    "source_category": "Müsned",
+    "authenticity": "Hasen",
+    "explanation": "Müslümanların birlik ve beraberliği rahmete, ayrılık ve bölünme ise azaba sebep olur. Tefrikadan kaçınmak gerekir.",
+    "topics": "Birlik,Cemaat,Tefrika"
+  },
+  {
+    "content": "İnsanlara teşekkür etmeyen Allah'a da şükretmez.",
+    "source": "Tirmizî, Birr, 35",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İnsanlara yapılan iyiliklere teşekkür etmek, Allah'a şükrün bir parçasıdır. İyiliği görüp takdir etmemek, nankörlüktür.",
+    "topics": "Şükür,Teşekkür,Nankörlük"
+  },
+  {
+    "content": "En hayırlı ev, içinde yetime ikram edilen evdir.",
+    "source": "İbn Mâce, Edeb, 6",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Hasen",
+    "explanation": "Yetimlere kucak açan, onlara sahip çıkan evler, Allah katında en değerli evlerdir.",
+    "topics": "Yetim,Ev,İkram"
+  },
+  {
+    "content": "Bir müslümanın diktiği ağaçtan veya ektiği ekinden insan, hayvan veya kuşların yedikleri şeyler, o müslüman için birer sadakadır.",
+    "source": "Buhârî, Edeb, 27"
+  },
+  {
+    "content": "Allah'tan korkunuz; çocuklarınız arasında adaletli davranınız.",
+    "source": "Buhârî, Hibe, 12"
+  },
+  {
+    "content": "Söz taşıyan cennete giremez.",
+    "source": "Buhârî, Edeb, 50"
+  },
+  {
+    "content": "Kalbinde zerre kadar kibir bulunan kimse cennete giremez.",
+    "source": "Müslim, İman, 147"
+  },
+  {
+    "content": "Merhamet etmeyene merhamet olunmaz.",
+    "source": "Buhârî, Edeb, 18"
+  },
+  {
+    "content": "Komşusu açken tok yatan (gerçek) mümin değildir.",
+    "source": "Hâkim, 2/15"
+  },
+  {
+    "content": "Kıyamet gününde şehidin kanı, alimin mürekkebi ile tartılır; alimin mürekkebi şehidin kanından ağır gelir.",
+    "source": "Suyûtî, Câmiu’s-Sağîr, 10026"
+  },
+  {
+    "content": "Size cehenneme girmesi haram olan ve cehennemin de onu yakması haram olan kimseyi bildireyim mi? Canı insana yakın, yumuşak huylu, kolaylaştırıcı kimse.",
+    "source": "Tirmizî, Sıfatü'l-Kıyâme, 45"
+  },
+  {
+    "content": "Kolaylaştırınız, zorlaştırmayınız; müjdeleyiniz, nefret ettirmeyiniz.",
+    "source": "Buhârî, İlim, 11"
+  },
+  {
+    "content": "Kim bir iyilik yaptığında seviniyor, bir kötülük yaptığında üzülüyorsa o mümindir.",
+    "source": "Ahmed b. Hanbel, Müsned, 4/399"
+  },
+  {
+    "content": "Sizin en hayırlınız, ailesine karşı en hayırlı olanınızdır. Ben de ailesine karşı en hayırlı olanınızım.",
+    "source": "Tirmizî, Menâkıb, 63"
+  },
+  {
+    "content": "Mümin, insanların güven duyduğu kimsedir.",
+    "source": "Tirmizî, İman, 12"
+  },
+  {
+    "content": "Her iyilik bir sadakadır.",
+    "source": "Buhârî, Edeb, 33"
+  },
+  {
+    "content": "Komşunla iyi komşuluk et ki gerçek müslüman olasın.",
+    "source": "İbn Mâce, Zühd, 24"
+  },
+  {
+    "content": "Zenginlik mal çokluğuyla değil, gönül zenginliğiyledir.",
+    "source": "Buhârî, Rikak, 15"
+  },
+  {
+    "content": "Allah sizin dış görünüşünüze ve mallarınıza bakmaz, fakat kalplerinize ve amellerinize bakar.",
+    "source": "Müslim, Birr, 34"
+  },
+  {
+    "content": "İman, sabır ve hoşgörüdür.",
+    "source": "Müsned, 4/385"
+  },
+  {
+    "content": "Sözü çoğalanın hatası da çoğalır.",
+    "source": "Taberani, el-Evsat, 8/308"
+  },
+  {
+    "content": "Hiçbiriniz kendi nefsi için istediğini kardeşi için de istemedikçe tam iman etmiş olmaz.",
+    "source": "Buhârî, İman, 7"
+  },
+  {
+    "content": "Mazlumun duası ile Allah arasında perde yoktur.",
+    "source": "Buhârî, Cihad, 180"
+  },
+  {
+    "content": "Kıyamet günü mü'minin terazisinde güzel ahlaktan daha ağır basacak bir şey yoktur.",
+    "source": "Tirmizi, Birr, 61"
+  },
+  {
+    "content": "İlim öğrenmek her Müslümana farzdır.",
+    "source": "İbn Mâce, Mukaddime, 17"
+  },
+  {
+    "content": "Cennet, annelerin ayakları altındadır.",
+    "source": "Nesâî, Cihad, 6"
+  },
+  {
+    "content": "Hayra vesile olan, hayrı yapan gibidir.",
+    "source": "Tirmizî, İlim, 14"
+  },
+  {
+    "content": "Müslüman, dilinden ve elinden Müslümanların emin olduğu kimsedir.",
+    "source": "Buhârî, İman, 4"
+  },
+  {
+    "content": "Merhamet etmeyene merhamet olunmaz.",
+    "source": "Buhârî, Edeb, 18"
+  },
+  {
+    "content": "Tebessüm sadakadır.",
+    "source": "Tirmizi, Birr, 36"
+  },
+  {
+    "content": "Öfke şeytandandır.",
+    "source": "Ebu Davud, Edeb, 4"
+  },
+  {
+    "content": "Hediyeleşiniz ki birbirinizi sevesiniz.",
+    "source": "Muvatta, Hüsnü'l-Hulk, 16"
+  },
+  {
+    "content": "İşçinin ücretini alnının teri kurumadan veriniz.",
+    "source": "İbn Mâce, Ruhûn, 4"
+  },
+  {
+    "content": "Danışan pişman olmaz.",
+    "source": "Heysemî, Mecmau'z-Zevâid, 2/280"
+  },
+  {
+    "content": "Kişi sevdiği ile beraberdir.",
+    "source": "Buhârî, Edeb, 96"
+  },
+  {
+    "content": "Ameller niyetlere göredir.",
+    "source": "Buhârî, Bed'ü'l-Vahy, 1"
+  },
+  {
+    "content": "Temizlik imanın yarısıdır.",
+    "source": "Müslim, Tahâret, 1"
+  },
+  {
+    "content": "Bizi aldatan bizden değildir.",
+    "source": "Müslim, İman, 164"
+  },
+  {
+    "content": "Sizin en hayırlınız Kur'an'ı öğrenen ve öğretendir.",
+    "source": "Buhârî, Fedâilü'l-Kur'an, 21"
+  },
+  {
+    "content": "Dua müminin silahıdır.",
+    "source": "Hâkim, el-Müstedrek, 1/492"
+  },
+  {
+    "content": "Güzel söz sadakadır.",
+    "source": "Buhârî, Edeb, 34"
+  },
+  {
+    "content": "Veren el alan elden üstündür.",
+    "source": "Buhârî, Zekât, 18"
+  },
+  {
+    "content": "Yarım hurma ile de olsa ateşten korununuz.",
+    "source": "Buhârî, Zekât, 10"
+  },
+  {
+    "content": "Hased ateşin odunu yediği gibi hasenatı yer bitirir.",
+    "source": "İbn Mâce, Zühd, 22"
+  },
+  {
+    "content": "Söz taşıyan cennete giremez.",
+    "source": "Buhârî, Edeb, 50"
+  },
+  {
+    "content": "Kibirli olan cennete giremez.",
+    "source": "Müslim, İman, 147"
+  },
+  {
+    "content": "Yalan, kötülüğe, kötülük de cehenneme götürür.",
+    "source": "Buhârî, Edeb, 69"
+  },
+  {
+    "content": "Zulümden sakınınız; zira zulüm kıyamet günü karanlıklar olacaktır.",
+    "source": "Müslim, Birr, 56"
+  },
+  {
+    "content": "Misafirine ikram etmeyen bizden değildir.",
+    "source": "İbn Mâce, Edeb, 5"
+  },
+  {
+    "content": "Akrabasıyla ilgisini kesen cennete giremez.",
+    "source": "Buhârî, Edeb, 11"
+  },
+  {
+    "content": "Komşusu açken tok yatan bizden değildir.",
+    "source": "İbn Ebi Şeybe, Musannef, İman, 6"
+  },
+  {
+    "content": "Cemaatte rahmet, ayrılıkta azap vardır.",
+    "source": "Müsned, 4/278"
+  },
+  {
+    "content": "Utanmadıktan sonra dilediğini yap.",
+    "source": "Buhârî, Enbiya, 54"
+  },
+  {
+    "content": "İyiliği emretmek, kötülükten sakındırmak sadakadır.",
+    "source": "Müslim, Müsâfirîn, 84"
+  },
+  {
+    "content": "Mümin, bir delikten iki defa ısırılmaz.",
+    "source": "Buhârî, Edeb, 83"
+  },
+  {
+    "content": "Herkesin hatası vardır; hata edenlerin en hayırlısı tövbe edenlerdir.",
+    "source": "Tirmizi, Kıyame, 49"
+  },
+  {
+    "content": "Dünya müminin zindanı, kafirin cennetidir.",
+    "source": "Müslim, Zühd, 1"
+  },
+  {
+    "content": "Müslüman kardeşini küçük görmesi kişiye kötülük olarak yeter.",
+    "source": "Müslim, Birr, 32"
+  },
+  {
+    "content": "Allah'a ve ahiret gününe iman eden ya hayır söylesin ya da sussun.",
+    "source": "Buhârî, Edeb, 31"
+  },
+  {
+    "content": "Namaz dinin direğidir.",
+    "source": "Tirmizî, İman, 8"
+  },
+  {
+    "content": "Kim susarsa kurtulur.",
+    "source": "Tirmizi, Sıfatü'l-Kıyame, 50"
+  },
+  {
+    "content": "Cennet cömertler yurdudur.",
+    "source": "Deylemî, Müsned, 1/144"
+  },
+  {
+    "content": "Kıyamet gününde kulun ilk hesaba çekileceği şey namazdır.",
+    "source": "Tirmizi, Salat, 188"
+  },
+  {
+    "content": "Merhamet edin ki size de merhamet edilsin.",
+    "source": "Ahmed b. Hanbel, Müsned, 2/165"
+  },
+  {
+    "content": "Bir müminin diğer mümin üzerindeki hakkı altıdır: Hastalandığında onu ziyaret eder, öldüğünde cenazesine katılır, davet ettiğinde icabet eder, selam verdiğinde selamını alır, aksırdığında 'yerhamukellah' der, onun gıyabında ve huzurunda ona samimi davranır.",
+    "source": "Tirmizi, Edeb, 1"
+  },
+  {
+    "content": "Sabır, cennet hazinelerinden bir hazinedir.",
+    "source": "Müsnâvî, 1/17"
+  },
+  {
+    "content": "En hayırlı arkadaş, Allah'ı andığında sana yardım eden, O'nu unuttuğunda sana hatırlatandır.",
+    "source": "Suyûtî, Câmiu’s-Sağîr, 4088"
+  },
+  {
+    "content": "Zenginlik, malın çokluğu değil, gönlün tokluğudur.",
+    "source": "Buhârî, Rikak, 15"
+  },
+  {
+    "content": "Gerçek pehlivan güreşte rakibini yenen değil, öfkelendiği zaman nefsine hakim olandır.",
+    "source": "Buhârî, Edeb, 76"
+  },
+  {
+    "content": "Kim Allah'a kavuşmayı severse, Allah da ona kavuşmayı sever.",
+    "source": "Buhârî, Rikak, 41"
+  },
+  {
+    "content": "En faziletli ibadet, duadır.",
+    "source": "Hâkim, Müstedrek, 1/491"
+  },
+  {
+    "content": "Rızkın onda dokuzu ticarettendir.",
+    "source": "Münâvî, Feyzü'l-Kadir, 3/220"
+  },
+  {
+    "content": "Temizlik, imanın yarısıdır.",
+    "source": "Müslim, Taharet, 1"
+  },
+  {
+    "content": "Kıyamet gününde Allah'a en sevimli gelenleriniz, ahlakı en güzel olanlarınızdır.",
+    "source": "Tirmizi, Birr, 71"
+  },
+  {
+    "content": "Sözün en güzeli Allah'ın kitabı, yolların en doğrusu Muhammed'in (s.a.v) yoludur.",
+    "source": "Buhârî, İ'tisâm, 2"
+  },
+  {
+    "content": "Hiçbir baba çocuğuna güzel ahlaktan daha kıymetli bir miras bırakmamıştır.",
+    "source": "Tirmizi, Birr, 33"
+  },
+  {
+    "content": "Kardeşine gülümsemen senin için bir sadakadır.",
+    "source": "Tirmizi, Birr, 36"
+  },
+  {
+    "content": "Allah'a ve ahiret gününe inanan kimse misafirine ikram etsin.",
+    "source": "Buhârî, Edeb, 31"
+  },
+  {
+    "content": "Doğruluk iyiliğe, iyilik de cennete götürür.",
+    "source": "Buhârî, Edeb, 69"
+  },
+  {
+    "content": "Münafığın alameti üçtür: Konuştuğunda yalan söyler, söz verdiğinde sözünden döner, kendisine bir şey emanet edildiğinde hıyanet eder.",
+    "source": "Buhârî, İman, 24"
+  },
+  {
+    "content": "Müslüman, Müslümanın kardeşidir. Ona zulmetmez, onu (düşmana) teslim etmez.",
+    "source": "Buhârî, Mezâlim, 3"
+  },
+  {
+    "content": "İnsanlara teşekkür etmeyen, Allah'a da şükretmez.",
+    "source": "Tirmizi, Birr, 35"
+  },
+  {
+    "content": "Kalbinde zerre kadar kibir bulunan kimse cennete giremez.",
+    "source": "Müslim, İman, 147"
+  },
+  {
+    "content": "Kolaylaştırınız, zorlaştırmayınız; müjdeleyiniz, nefret ettirmeyiniz.",
+    "source": "Buhârî, İlim, 11"
+  },
+  {
+    "content": "Amellerin en faziletlisi vaktinde kılınan namazdır.",
+    "source": "Buhârî, Mevâkît, 5"
+  },
+  {
+    "content": "Sizin en hayırlınız Kur'an'ı öğrenen ve öğreteninizdir.",
+    "source": "Buhârî, Fedâilü'l-Kur'an, 21"
+  },
+  {
+    "content": "Müslüman, elinden ve dilinden Müslümanların emin olduğu kimsedir.",
+    "source": "Buhârî, İman, 4",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Gerçek müslüman, diğer insanlara sözlü veya fiili olarak zarar vermeyen, güvenilir kimsedir.",
+    "topics": "Güven,Ahlak,Müslüman"
+  },
+  {
+    "content": "Kıyamet gününde şehidin kanı, alimin mürekkebi ile tartılır; alimin mürekkebi şehidin kanından ağır gelir.",
+    "source": "Suyûtî, Câmiu’s-Sağîr, 10026",
+    "source_category": "Diğer",
+    "authenticity": "Zayıf",
+    "explanation": "İlmin faziletini ve alimlerin dindeki yüksek derecesini vurgulayan bir sözdür.",
+    "topics": "İlim,Alim,Şehit"
+  },
+  {
+    "content": "Müjdeleyiniz, nefret ettirmeyiniz; kolaylaştırınız, zorlaştırmayınız.",
+    "source": "Buhârî, İlim, 11",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İslam dininin tebliğinde ve öğretilmesinde temel prensip; sevgi, kolaylık ve hoşgörüdür.",
+    "topics": "Tebliğ,Kolaylık,Hoşgörü"
+  },
+  {
+    "content": "Temizlik imanın yarısıdır.",
+    "source": "Müslim, Taharet, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Maddi ve manevi temizlik, kamil bir imanın vazgeçilmez bir parçasıdır.",
+    "topics": "Temizlik,İman"
+  },
+  {
+    "content": "Ameller niyetlere göredir.",
+    "source": "Buhârî, Bed'ül-Vahy, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Yapılan her işin değeri, o işi yapan kişinin taşıdığı niyete bağlıdır.",
+    "topics": "Niyet,İhlas,Amel"
+  },
+  {
+    "content": "Sizin en hayırlınız, Kur'an'ı öğrenen ve öğretendir.",
+    "source": "Tirmizi, Fedailü'l-Kur'an, 15",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Kur'an-ı Kerim ile meşgul olmak, onu anlamak ve başkalarına anlatmak en şerefli iştir.",
+    "topics": "Kuran,İlim,Eğitim"
+  },
+  {
+    "content": "Güzel söz sadakadır.",
+    "source": "Buhârî, Edeb, 34",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İnsanların gönlünü hoş eden, onlara moral veren her türlü güzel konuşma manevi bir sadakadır.",
+    "topics": "Sadaka,Ahlak,İletişim"
+  },
+  {
+    "content": "Hediyeleşin ki birbirinize olan muhabbetiniz artsın.",
+    "source": "Muvatta, Hüsnü'l-Hulk, 4",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Hediyeleşmek, kalplerdeki kini giderir ve insanlar arasındaki sevgi bağlarını güçlendirir.",
+    "topics": "Hediye,Sevgi,Kardeşlik"
+  },
+  {
+    "content": "Mümin, bir delikten iki defa ısırılmaz.",
+    "source": "Buhârî, Edeb, 83",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Mümin uyanıktır; başına gelen bir musibetten veya hatadan ders alır, aynı hataya tekrar düşmez.",
+    "topics": "Tedbir,Akıl,Tecrübe"
+  },
+  {
+    "content": "Komşusu açken tok yatan bizden değildir.",
+    "source": "Hâkim, Müstedrek, 2/15",
+    "source_category": "Diğer",
+    "authenticity": "Sahih",
+    "explanation": "Toplumsal dayanışma, mümin olmanın gereklerindendir. Çevresindeki ihtiyaç sahiplerine duyarsız kalınamaz.",
+    "topics": "Komşuluk,Yardımlaşma,Sorumluluk"
+  },
+  {
+    "content": "Cennet annelerin ayakları altındadır.",
+    "source": "Nesâî, Cihad, 6",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Anne rızası kazanmak, cennete girmenin en önemli yollarından biridir.",
+    "topics": "Anne,Baba,Saygı"
+  },
+  {
+    "content": "Bizi aldatan bizden değildir.",
+    "source": "Müslim, İman, 164",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Dürüstlük İslam ahlakının temelidir. Hile, yalan ve kandırma müslümana yakışmaz.",
+    "topics": "Dürüstlük,Ticaret,Ahlak"
+  },
+  {
+    "content": "Merhamet etmeyene Allah da merhamet etmez.",
+    "source": "Buhârî, Edeb, 18",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Allah'ın rahmetini uman kişi, O'nun yarattıklarına şefkat ve merhametle yaklaşmalıdır.",
+    "topics": "Merhamet,Şefkat"
+  },
+  {
+    "content": "Tebessüm sadakadır.",
+    "source": "Tirmizi, Birr, 36",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Güleryüzlü olmak, insanların kalbini ferahlatmak maddi külfeti olmayan ama büyük sevap getiren bir davranıştır.",
+    "topics": "Tebessüm,Ahlak,Sadaka"
+  },
+  {
+    "content": "İlim talep etmek her Müslümana farzdır.",
+    "source": "İbn Mâce, Mukaddime, 17",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Bilgi öğrenmek, kadın erkek ayrımı olmaksızın her inanan bireyin sorumluluğudur.",
+    "topics": "İlim,Eğitim"
+  },
+  {
+    "content": "Öfke şeytandandır. Öfkelendiğiniz zaman abdest alın.",
+    "source": "Ebû Dâvûd, Edeb, 3",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Zayıf",
+    "explanation": "Öfke anında sakinleşmek ve manevi bir arınma yöntemi olarak abdest almak tavsiye edilmiştir.",
+    "topics": "Öfke,Sabır,Abdest"
+  },
+  {
+    "content": "Hiçbir baba, çocuğuna güzel ahlaktan daha kıymetli bir miras bırakmamıştır.",
+    "source": "Tirmizî, Birr, 33",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Maddi miras tükenir, ancak çocuğa kazandırılan güzel karakter kalıcı ve en değerli sermayedir.",
+    "topics": "Eğitim,Aile,Ahlak"
+  },
+  {
+    "content": "Kardeşine gülümen senin için bir sadakadır.",
+    "source": "Tirmizi, Birr, 36",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Pozitif yaklaşım ve güleryüz, İslam ahlakının bir gereği ve sevap vesilesidir.",
+    "topics": "Kardeşlik,Tebessüm"
+  },
+  {
+    "content": "İki nimet vardır ki, insanların çoğu bunların kıymetini bilmez: Sağlık ve boş vakit.",
+    "source": "Buhârî, Rikak, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Zaman ve sağlık, kaybedildiğinde değeri anlaşılan ve en çok israf edilen iki büyük sermayedir.",
+    "topics": "Zaman,Sağlık,Şükür"
+  },
+  {
+    "content": "Allah güzeldir, güzelliği sever.",
+    "source": "Müslim, İman, 147",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Hem dış görünüşte hem de ahlakta estetik ve güzellik, Allah'ın hoşnut olduğu bir durumdur.",
+    "topics": "Güzellik,Estetik,Allah"
+  },
+  {
+    "content": "Zenginlik mal çokluğuyla değil, gönül zenginliğiyledir.",
+    "source": "Buhârî, Rikak, 15",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Gerçek zenginlik, elindekine kanaat etmek ve hırsın esiri olmamaktır.",
+    "topics": "Kanaat,Zenginlik,Şükür"
+  },
+  {
+    "content": "Kıyamet günü müminin terazisinde güzel ahlaktan daha ağır basacak bir şey yoktur.",
+    "source": "Tirmizi, Birr, 62",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Ahlak güzelliği, ahirette kulun hesabını kolaylaştıracak en önemli sermayedir.",
+    "topics": "Ahlak,Kıyamet,Hesap"
+  },
+  {
+    "content": "İlim, müminin yitiğidir; nerede bulursa onu alır.",
+    "source": "Tirmizi, İlim, 19",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Zayıf",
+    "explanation": "Bilginin kaynağı ne olursa olsun, faydalı ilim almak müslümanın görevidir.",
+    "topics": "İlim,Bilgi,Hikmet"
+  },
+  {
+    "content": "Sadaka malı eksiltmez.",
+    "source": "Müslim, Birr, 69",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Maddi olarak azalıyor gibi görünse de, sadaka malın bereketini artırır ve manevi kazanç sağlar.",
+    "topics": "Sadaka,Bereket,Cömertlik"
+  },
+  {
+    "content": "Kim Allah'a ve ahiret gününe inanıyorsa komşusuna eziyet etmesin.",
+    "source": "Buhârî, Edeb, 31",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İmanın bir gereği de çevremizdeki insanlarla iyi geçinmek ve onlara zarar vermemektir.",
+    "topics": "Komşuluk,İman,Zarar Vermeme"
+  },
+  {
+    "content": "Dua ibadetin özüdür.",
+    "source": "Tirmizi, Deavat, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Zayıf",
+    "explanation": "Kulluğun en samimi ifadesi, kişinin acizliğini bilip Allah'a yöneldiği dua anıdır.",
+    "topics": "Dua,İbadet,Samimiyet"
+  },
+  {
+    "content": "Hayra vesile olan, hayrı yapan gibidir.",
+    "source": "Tirmizi, İlim, 14",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Bir iyiliğe aracılık etmek veya teşvik etmek, o iyiliği bizzat yapmak kadar değerlidir.",
+    "topics": "Hayır,Teşvik,İyilik"
+  },
+  {
+    "content": "Müslüman, elinden ve dilinden diğer Müslümanların emin olduğu kimsedir.",
+    "source": "Buhârî, İman, 4",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Gerçek müslümanlık, güvenilir olmak ve başkalarına zarar vermemekle ölçülür.",
+    "topics": "Güven,Ahlak,Müslüman"
+  },
+  {
+    "content": "Namaz dinin direğidir.",
+    "source": "Beyhakî, Şuabü'l-İman, 3/39",
+    "source_category": "Diğer",
+    "authenticity": "Zayıf",
+    "explanation": "Bir yapıyı ayakta tutan direkler gibi, İslam dinini ayakta tutan temel ibadet namazdır.",
+    "topics": "Namaz,İbadet,Temel"
+  },
+  {
+    "content": "Temizlik imanın yarısıdır.",
+    "source": "Müslim, Taharet, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Hem bedeni hem de kalbi temiz tutmak, imanın kemale ermesi için şarttır.",
+    "topics": "Temizlik,İman"
+  },
+  {
+    "content": "Kolaylaştırınız, zorlaştırmayınız; müjdeleyiniz, nefret ettirmeyiniz.",
+    "source": "Buhârî, İlim, 11",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İslam dini kolaylık dinidir; insanları dinden soğutacak katı tutumlardan kaçınılmalıdır.",
+    "topics": "Tebliğ,Kolaylık,Hoşgörü"
+  },
+  {
+    "content": "Şüpheli şeylerden sakınan, dinini ve ırzını korumuş olur.",
+    "source": "Buhârî, İman, 39",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Haram olması muhtemel şüpheli durumlardan kaçınmak, kişinin manevi hayatını garantiye alır.",
+    "topics": "Takva,Haram,Şüpheli Şeyler"
+  },
+  {
+    "content": "İşçinin ücretini alnının teri kurumadan veriniz.",
+    "source": "İbn Mâce, Ruhûn, 4",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Zayıf",
+    "explanation": "Emek sahibinin hakkını geciktirmeden ödemek, kul hakkına riayetin en önemli göstergesidir.",
+    "topics": "Emek,Adalet,Kul Hakkı"
+  },
+  {
+    "content": "Birbirinize haset etmeyiniz, birbirinize küsmeyiniz.",
+    "source": "Müslim, Birr, 23",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Toplumsal huzuru bozan kıskançlık ve dargınlık gibi duygular İslam'da yasaklanmıştır.",
+    "topics": "Haset,Kardeşlik,Barış"
+  },
+  {
+    "content": "Allah'ın rızası anne babanın rızasındadır.",
+    "source": "Tirmizi, Birr, 3",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Allah'ı hoşnut etmek isteyen kişi, öncelikle anne ve babasının gönlünü hoş tutmalıdır.",
+    "topics": "Anne,Baba,Rıza"
+  },
+  {
+    "content": "Danışan pişman olmaz.",
+    "source": "Taberânî, Kebir, 6/68",
+    "source_category": "Diğer",
+    "authenticity": "Zayıf",
+    "explanation": "İşlerini başkalarıyla istişare ederek yapan kişi, sonuçtan pişmanlık duymaz, en doğru yolu bulur.",
+    "topics": "İstişare,Karar,Danışma"
+  },
+  {
+    "content": "Dünya müminin zindanı, kafirin cennetidir.",
+    "source": "Müslim, Zühd, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Mümin için ahiret nimetleri o kadar büyüktür ki, dünya hayatı ona kıyasla zindan gibidir.",
+    "topics": "Dünya,Ahiret,Zühd"
+  },
+  {
+    "content": "Söz taşıyan cennete giremez.",
+    "source": "Buhârî, Edeb, 50",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Koğuculuk yapmak (laf taşımak), insanlar arasını bozduğu için büyük günah sayılmıştır.",
+    "topics": "Koğuculuk,Dil,Günah"
+  },
+  {
+    "content": "Merhamet etmeyene merhamet olunmaz.",
+    "source": "Buhârî, Edeb, 18",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İlahi merhamete nail olmanın yolu, yeryüzündeki canlılara şefkat göstermekten geçer.",
+    "topics": "Merhamet,Şefkat"
+  },
+  {
+    "content": "Kişi sevdiği ile beraberdir.",
+    "source": "Buhârî, Edeb, 96",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İnsan dünyada kimi sever ve kimin peşinden giderse, ahirette de onunla haşrolunacaktır.",
+    "topics": "Sevgi,Dostluk,Ahiret"
+  },
+  {
+    "content": "Yarım hurma ile de olsa ateşten korununuz.",
+    "source": "Buhârî, Zekât, 10",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Yapılan iyilik küçük de olsa küçümsenmemeli, az da olsa sadaka verilmelidir.",
+    "topics": "Sadaka,İyilik,Cömertlik"
+  },
+  {
+    "content": "En faziletli amel, vaktinde kılınan namazdır.",
+    "source": "Buhârî, Mevâkît, 5",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İbadetlerin en kıymetlisi, vaktini geçirmeden ve özenle kılınan namazdır.",
+    "topics": "Namaz,İbadet,Fazilet"
+  },
+  {
+    "content": "Sizin en hayırlınız Kur'an'ı öğrenen ve öğreteninizdir.",
+    "source": "Buhârî, Fedâilü'l-Kur'an, 21",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Müslümanın en önemli meşguliyeti Allah'ın kitabını öğrenmek ve öğretmek olmalıdır.",
+    "topics": "Kuran,İlim,Eğitim"
+  },
+  {
+    "content": "Utanmadıktan sonra dilediğini yap!",
+    "source": "Buhârî, Enbiyâ, 54",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Haya duygusunu kaybeden insan, her türlü kötülüğü yapabilecek duruma gelir.",
+    "topics": "Haya,Ahlak,Utanma"
+  },
+  {
+    "content": "Her iyilik bir sadakadır.",
+    "source": "Buhârî, Edeb, 33",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Sadece para ile değil, güzel bir söz veya yardım ile yapılan her iyilik sadaka yerine geçer.",
+    "topics": "Sadaka,İyilik"
+  },
+  {
+    "content": "Cennet annelerin ayakları altındadır.",
+    "source": "Nesâî, Cihad, 6",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Anneye hizmet ve saygı, Allah'ın rızasını ve cenneti kazanmanın en kestirme yoludur.",
+    "topics": "Anne,Saygı,Cennet"
+  },
+  {
+    "content": "Sözün en hayırlısı Allah'ın Kitabı, yolların en hayırlısı Muhammed'in yoludur.",
+    "source": "Müslim, Cuma, 43",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Doğru yolun ve rehberliğin kaynağı Kur'an ve Sünnet'tir.",
+    "topics": "Kuran,Sünnet,Rehberlik"
+  },
+  {
+    "content": "Sizin en hayırlınız, ahlakı en güzel olanınızdır.",
+    "source": "Buhârî, Edeb, 38",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İslam'da üstünlük soy sopla değil, güzel karakter ve davranışlarladır.",
+    "topics": "Ahlak,Fazilet"
+  },
+  {
+    "content": "Müslüman, elinden ve dilinden Müslümanların emin olduğu kimsedir.",
+    "source": "Buhârî, İman, 4",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Güvenilirlik, İslam kimliğinin en temel vasfıdır.",
+    "topics": "Güven,Müslüman"
+  },
+  {
+    "content": "Hiçbiriniz, kendisi için istediğini kardeşi için de istemedikçe (tam) iman etmiş olmaz.",
+    "source": "Buhârî, İman, 7",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Empati ve kardeşlik duygusu, kamil imanın şartıdır.",
+    "topics": "Kardeşlik,İman,Empati"
+  },
+  {
+    "content": "Zenginlik mal çokluğuyla değil, gönül zenginliğiyledir.",
+    "source": "Buhârî, Rikak, 15",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Gerçek zenginlik, hırslardan arınmış tatmin olmuş bir kalbe sahip olmaktır.",
+    "topics": "Zenginlik,Kanaat"
+  },
+  {
+    "content": "Merhamet etmeyene Allah da merhamet etmez.",
+    "source": "Buhârî, Edeb, 18",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Allah'ın rahmetini isteyen, yaratılanlara şefkat göstermelidir.",
+    "topics": "Merhamet,Rahmet"
+  },
+  {
+    "content": "Kolaylaştırınız, zorlaştırmayınız; müjdeleyiniz, nefret ettirmeyiniz.",
+    "source": "Buhârî, İlim, 11",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İslam daveti ve eğitimi, sevgi ve kolaylık üzerine kuruludur.",
+    "topics": "Tebliğ,Eğitim,Kolaylık"
+  },
+  {
+    "content": "Ameller niyetlere göredir. Herkese niyet ettiği şey vardır.",
+    "source": "Buhârî, Bed'ül-Vahy, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Yapılan işlerin değeri, kalpteki niyete ve samimiyete bağlıdır.",
+    "topics": "Niyet,İhlas"
+  },
+  {
+    "content": "Temizlik imanın yarısıdır.",
+    "source": "Müslim, Taharet, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Maddi ve manevi temizlik, imanın ayrılmaz bir parçasıdır.",
+    "topics": "Temizlik,İman"
+  },
+  {
+    "content": "Cennet annelerin ayakları altındadır.",
+    "source": "Nesâî, Cihad, 6",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Anneye hürmet ve hizmet, cennete giden en kısa yoldur.",
+    "topics": "Anne,Saygı,Cennet"
+  },
+  {
+    "content": "Kim Allah'a ve ahiret gününe inanıyorsa misafirine ikram etsin.",
+    "source": "Buhârî, Edeb, 31",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Misafirperverlik, imanın sosyal hayata yansıyan bir göstergesidir.",
+    "topics": "Misafir,İkram,İman"
+  },
+  {
+    "content": "Bizi aldatan bizden değildir.",
+    "source": "Müslim, İman, 164",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Hile ve sahtekarlık, İslam ahlakıyla asla bağdaşmaz.",
+    "topics": "Dürüstlük,Güven,Ticaret"
+  },
+  {
+    "content": "Güzel söz sadakadır.",
+    "source": "Buhârî, Edeb, 34",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İnsanlara söylenen tatlı ve yapıcı sözler, sadaka sevabı kazandırır.",
+    "topics": "Sadaka,Konuşma,Nezaket"
+  },
+  {
+    "content": "Kıyamet günü müminin terazisinde güzel ahlaktan daha ağır basacak bir şey yoktur.",
+    "source": "Tirmizi, Birr, 62",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Ahiret hesabında en değerli sermaye, dünyada kazanılan güzel ahlaktır.",
+    "topics": "Ahlak,Ahiret,Terazi"
+  },
+  {
+    "content": "Sizin en hayırlınız, ailesine karşı en hayırlı olanınızdır.",
+    "source": "Tirmizî, Menâkıb, 63",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Kişinin karakter kalitesi, ailesine olan davranışlarıyla ölçülür.",
+    "topics": "Aile,Eş,Hayırlı"
+  },
+  {
+    "content": "Allah (cc) güzeldir, güzelliği sever.",
+    "source": "Müslim, İman, 147",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Estetik ve güzellik, Allah'ın sıfatlarından bir yansımadır ve müslümana yakışır.",
+    "topics": "Güzellik,Allah,Estetik"
+  },
+  {
+    "content": "Veren el, alan elden üstündür.",
+    "source": "Buhârî, Zekât, 18",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İhtiyaç sahibi olmaktansa, başkalarına yardım edebilecek durumda olmak hedeflenmelidir.",
+    "topics": "Yardımlaşma,Zekat,Çalışma"
+  },
+  {
+    "content": "Komşusu açken tok yatan bizden değildir.",
+    "source": "Hâkim, Müstedrek, 2/15",
+    "source_category": "Diğer",
+    "authenticity": "Sahih",
+    "explanation": "Müslüman, çevresindeki yoksullara karşı duyarsız kalamaz.",
+    "topics": "Komşuluk,Yardımlaşma,Sosyal"
+  },
+  {
+    "content": "İki nimet vardır ki, insanların çoğu bunların kıymetini bilmez: Sağlık ve boş vakit.",
+    "source": "Buhârî, Rikak, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Zaman ve sağlık, en büyük sermayedir ve genellikle kaybedilince anlaşılır.",
+    "topics": "Zaman,Sağlık,Farkındalık"
+  },
+  {
+    "content": "Sadaka malı eksiltmez.",
+    "source": "Müslim, Birr, 69",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Paylaşmak malın bereketini artırır, manevi olarak çoğaltır.",
+    "topics": "Sadaka,Bereket,Cömertlik"
+  },
+  {
+    "content": "Hediyeleşin ki birbirinize olan muhabbetiniz artsın.",
+    "source": "Muvatta, Hüsnü'l-Hulk, 4",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Küçük de olsa hediyeleşmek, kalplerdeki sevgiyi pekiştirir.",
+    "topics": "Hediye,Sevgi,Dostluk"
+  },
+  {
+    "content": "Birbirinize haset etmeyiniz, birbirinize küsmeyiniz, birbirinize sırt çevirmeyiniz. Ey Allah'ın kulları! Kardeş olunuz.",
+    "source": "Müslim, Birr, 23",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İslam toplumu, kıskançlık ve dargınlıktan uzak, kardeşlik temeli üzerine kuruludur.",
+    "topics": "Kardeşlik,Barış,Haset"
+  },
+  {
+    "content": "Kişi sevdiği ile beraberdir.",
+    "source": "Buhârî, Edeb, 96",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İnsan kimi seviyor ve örnek alıyorsa, ahirette de onunla birlikte olacaktır.",
+    "topics": "Sevgi,Dostluk,Ahiret"
+  },
+  {
+    "content": "Mümin, bir delikten iki defa ısırılmaz.",
+    "source": "Buhârî, Edeb, 83",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Mümin basiretli olmalı, yaşadığı tecrübelerden ders çıkarmalıdır.",
+    "topics": "Basiret,Akıl,Tecrübe"
+  },
+  {
+    "content": "Allah'ın rızası anne babanın rızasındadır. Allah'ın gazabı da anne babanın gazabındadır.",
+    "source": "Tirmizi, Birr, 3",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Anne babayı razı etmek, Allah'ı razı etmenin en önemli yollarından biridir.",
+    "topics": "Anne,Baba,Rıza"
+  },
+  {
+    "content": "Namaz dinin direğidir.",
+    "source": "Tirmizi, İman, 8",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Dinin ayakta durması, namaz ibadetinin ikamesine bağlıdır.",
+    "topics": "Namaz,İbadet,Temel"
+  },
+  {
+    "content": "En faziletli amel, vaktinde kılınan namazdır.",
+    "source": "Buhârî, Mevâkît, 5",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Namazı vaktinde kılmak, diğer amellerden daha öncelikli ve faziletlidir.",
+    "topics": "Namaz,Vakit,Disiplin"
+  },
+  {
+    "content": "Sizin en hayırlınız Kur'an'ı öğrenen ve öğreteninizdir.",
+    "source": "Buhârî, Fedâilü'l-Kur'an, 21",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Kur'an ile meşgul olmak, müslümanın en değerli faaliyetidir.",
+    "topics": "Kuran,İlim,Eğitim"
+  },
+  {
+    "content": "Tebessüm sadakadır.",
+    "source": "Tirmizi, Birr, 36",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Güleryüzlü olmak, insanlar arası ilişkileri yumuşatan manevi bir sadakadır.",
+    "topics": "Tebessüm,Nezaket,Sadaka"
+  },
+  {
+    "content": "Münafığın alameti üçtür: Konuştuğunda yalan söyler, söz verdiğinde sözünden döner, emanete hıyanet eder.",
+    "source": "Buhârî, İman, 24",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Yalan, sözünde durmama ve hıyanet, nifak alametleridir ve mümin bunlardan kaçınmalıdır.",
+    "topics": "Münafık,Yalan,Emanet"
+  },
+  {
+    "content": "Şüpheli şeylerden sakınan, dinini ve ırzını korumuş olur.",
+    "source": "Buhârî, İman, 39",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Helal ve haram sınırlarında hassasiyet göstermek, takvanın gereğidir.",
+    "topics": "Takva,Helal,Haram"
+  },
+  {
+    "content": "Yedi sınıf insan vardır ki, Allah onları kendi gölgesinden başka gölge bulunmayan günde (kıyamette) arşının gölgesinde gölgelendirir... (Adaletli yönetici, gençliğini ibadetle geçiren...)",
+    "source": "Buhârî, Ezan, 36",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Kıyametin dehşetinden korunacak yedi özel grup insanı müjdeleyen meşhur bir hadistir.",
+    "topics": "Kıyamet,Adalet,Gençlik,İbadet"
+  },
+  {
+    "content": "Kim bir hayra vesile olursa, ona o hayrı yapanın ecri kadar sevap vardır.",
+    "source": "Müslim, İmâre, 133",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İyiliğe öncülük etmek, o iyiliğin sevabına ortak olmayı sağlar.",
+    "topics": "Hayır,Vesile,Sevap"
+  },
+  {
+    "content": "Cennet kılıçların gölgesi altındadır.",
+    "source": "Buhârî, Cihad, 22",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Allah yolunda mücadele ve cihat, cennete girmenin yollarından biridir.",
+    "topics": "Cihad,Mücadele,Cennet"
+  },
+  {
+    "content": "İnsanda bir organ vardır. Eğer o sağlıklı ise bütün vücut sağlıklı olur; eğer o bozulursa bütün vücut bozulur. Dikkat edin! O, kalptir.",
+    "source": "Buhârî, İman, 39",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Manevi kalbin (gönlün) durumu, insanın tüm davranışlarına ve ahlakına yön verir.",
+    "topics": "Kalp,Maneviyat,Ahlak"
+  },
+  {
+    "content": "Kim kötü bir iş görürse onu eliyle düzeltsin; buna gücü yetmezse diliyle düzeltsin; buna da gücü yetmezse kalbiyle buğuz etsin. Bu ise imanın en zayıf derecesidir.",
+    "source": "Müslim, İman, 78",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Kötülükle mücadelede sorumluluk derecelerini anlatan temel bir prensiptir.",
+    "topics": "Emri bil maruf,Sorumluluk,Mücadele"
+  },
+  {
+    "content": "Hiçbir baba, çocuğuna güzel terbiyeden daha kıymetli bir miras bırakmamıştır.",
+    "source": "Tirmizi, Birr, 33",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Maddi miras tükenir ama ahlak ve terbiye, çocuğun hem dünyasını hem ahiretini kurtaracak tükenmez bir hazinedir.",
+    "topics": "Aile,Eğitim,Çocuk"
+  },
+  {
+    "content": "Güçlü kimse, güreşte rakibini yenen değil, öfke anında kendine hakim olandır.",
+    "source": "Buhârî, Edeb, 76",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Gerçek güç fiziksel kuvvet değil, zor anlarda iradesine ve duygularına hakim olabilme yeteneğidir.",
+    "topics": "Sabır,Öfke,İrade"
+  },
+  {
+    "content": "Müslümanın müslümana malı, ırzı ve kanı haramdır.",
+    "source": "Ebû Dâvûd, Edeb, 35",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İslam toplumunda can, mal ve namus güvenliği esastır ve dokunulmazdır.",
+    "topics": "Hak,Adalet,Güvenlik"
+  },
+  {
+    "content": "Kim susarsa kurtulur.",
+    "source": "Tirmizi, Kıyâmet, 50",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Gereksiz ve boş konuşmalardan kaçınmak; insanı dedikodu, yalan ve pişmanlıktan korur.",
+    "topics": "Dil,Hikmet,Sükut"
+  },
+  {
+    "content": "Acele şeytandan, teenni (düşünerek hareket etmek) Rahmandandır.",
+    "source": "Tirmizi, Birr, 66",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Hasen",
+    "explanation": "Düşünmeden yapılan işlerde hata riski yüksektir; sabır ve temkinle hareket etmek ise isabetli sonuçlar doğurur.",
+    "topics": "Sabır,Acele,Tedbir"
+  },
+  {
+    "content": "Allah sizin dış görünüşünüze ve mallarınıza bakmaz, fakat o sizin kalplerinize ve amellerinize bakar.",
+    "source": "Müslim, Birr, 34",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Allah katında değer ölçüsü zenginlik veya güzellik değil, kalbin temizliği ve yapılan işlerin niteliğidir.",
+    "topics": "İhlas,Kalp,Amel"
+  },
+  {
+    "content": "Bir müslümanın, din kardeşine üç günden fazla küsmesi helal değildir.",
+    "source": "Buhârî, Edeb, 57",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Dargınlıkların uzaması kin ve nefret tohumları eker; bu yüzden barışmakta acele edilmelidir.",
+    "topics": "Kardeşlik,Barış,Dargınlık"
+  },
+  {
+    "content": "Kıyamet kopsa bile, elinizde bir fidan varsa onu dikiniz.",
+    "source": "Ahmed b. Hanbel, Müsned, 3/183",
+    "source_category": "Kütüb-i Sitte Dışı",
+    "authenticity": "Sahih",
+    "explanation": "Son an bile olsa dünyayı güzelleştirmekten ve üretmekten vazgeçmemek, ümidin ve çalışmanın önemini gösterir.",
+    "topics": "Çalışma,Çevre,Ümit"
+  },
+  {
+    "content": "Cemaatte rahmet, ayrılıkta azap vardır.",
+    "source": "Ahmed b. Hanbel, Müsned, 4/278",
+    "source_category": "Kütüb-i Sitte Dışı",
+    "authenticity": "Sahih",
+    "explanation": "Birlik ve beraberlik topluma huzur ve bereket getirirken, bölünme ve çekişme felakete sürükler.",
+    "topics": "Birlik,Beraberlik,Toplum"
+  },
+  {
+    "content": "İnsanın yalan olarak her duyduğunu anlatması ona yeter.",
+    "source": "Müslim, Mukaddime, 5",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Araştırmadan ve doğruluğunu teyit etmeden duyulan her haberi yaymak, kişiyi yalancı durumuna düşürür.",
+    "topics": "Doğruluk,Yalan,Dedikodu"
+  },
+  {
+    "content": "Mümin, yeşil ekine benzer; rüzgarla eğilir ama yıkılmaz. Kafir ise çam ağacına benzer; serttir ama bir kere devrilirse bir daha kalkamaz.",
+    "source": "Buhârî, Merdâ, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Mümin, başına gelen belalar karşısında esnek ve sabırlıdır, imanıyla ayakta kalır. İman etmeyen ise musibetler karşısında dirençsizdir.",
+    "topics": "Sabır,İman,İmtihan"
+  },
+  {
+    "content": "Allah'a en sevimli gelen amel, az da olsa devamlı olanıdır.",
+    "source": "Buhârî, Rikak, 18",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İbadet ve iyiliklerde önemli olan, bir hevesle çok yapıp bırakmak değil, istikrarlı ve sürekli olmaktır.",
+    "topics": "İstikrar,İbadet,Amel"
+  },
+  {
+    "content": "Kim ilim öğrenmek için bir yola çıkarsa, Allah ona cennete giden yolu kolaylaştırır.",
+    "source": "Müslim, Zikir, 39",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İlim yolculuğu, kişiyi cehaletten kurtarıp Hakk'a ve dolayısıyla cennete ulaştıran kutsal bir yolculuktur.",
+    "topics": "İlim,Cennet,Eğitim"
+  },
+  {
+    "content": "Dua, ibadetin ta kendisidir.",
+    "source": "Ebû Dâvûd, Vitir, 23",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Dua, kulun Rabbine olan muhtaçlığını arz etmesidir ve bu haliyle ibadetin en saf halidir.",
+    "topics": "Dua,İbadet,Teslimiyet"
+  },
+  {
+    "content": "Rızkın onda dokuzu ticarettedir.",
+    "source": "Süyûtî, el-Câmiu's-Sağîr, 1/139",
+    "source_category": "Diğer",
+    "authenticity": "Zayıf",
+    "explanation": "Ticaret, meşru kazanç yollarının en bereketlisi ve toplumsal refahın kaynağıdır.",
+    "topics": "Ticaret,Rızık,Çalışma"
+  },
+  {
+    "content": "Kıskançlıktan sakınınız, zira ateşin odunu (veya otları) yeyip bitirdiği gibi kıskançlık da iyilikleri yer bitirir.",
+    "source": "Ebû Dâvûd, Edeb, 44",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Haset, kişinin iç huzurunu ve kazandığı sevapları tüketen manevi bir hastalıktır.",
+    "topics": "Haset,Kıskançlık,Ahlak"
+  },
+  {
+    "content": "Kim bir oruçluya iftar ettirirse, kendisine onun sevabı kadar sevap yazılır.",
+    "source": "Tirmizi, Savm, 82",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Oruçluya ikramda bulunmak, o ibadete ortak olmak demektir ve büyük bir yardımlaşma örneğidir.",
+    "topics": "Oruç,İkram,Ramazan"
+  },
+  {
+    "content": "Sizin en hayırlınız hanımlarına karşı en iyi davrananınızdır.",
+    "source": "Tirmizi, Radâ, 11",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Erkeğin ahlaki olgunluğu, eşine gösterdiği nezaket ve sevgiyle ölçülür.",
+    "topics": "Aile,Eş,Kadın Hakları"
+  },
+  {
+    "content": "İyilik, güzel ahlaktır. Günah ise vicdanını rahatsız eden ve insanların bilmesini istemediğin şeydir.",
+    "source": "Müslim, Birr, 15",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Vicdan, iyiyi ve kötüyü ayırt etme konusunda insanın içindeki en dürüst terazidir.",
+    "topics": "Ahlak,Vicdan,İyilik"
+  },
+  {
+    "content": "Namaz, gözümün nurudur.",
+    "source": "Nesâî, İşratü'n-Nisâ, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Hz. Peygamber için namaz, dünyadaki en büyük huzur ve mutluluk kaynağıdır.",
+    "topics": "Namaz,Huzur,İbadet"
+  },
+  {
+    "content": "Müminler bir binanın tuğlaları gibidir, birbirlerini kenetlerler.",
+    "source": "Buhârî, Salat, 88",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İslam toplumu, bireylerin birbirine destek olduğu sağlam bir yapı gibi olmalıdır.",
+    "topics": "Birlik,Dayanışma,Kardeşlik"
+  },
+  {
+    "content": "Komşu haklarına o kadar önem verildi ki, Cebrail (as) bana sürekli komşuyu tavsiye edince, komşuyu komşuya mirasçı kılacak sandım.",
+    "source": "Buhârî, Edeb, 28",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Komşuluk hakkı, İslam'da akrabalık haklarına yakın derecede kutsal ve önemlidir.",
+    "topics": "Komşuluk,Hak,Sosyal"
+  },
+  {
+    "content": "Allah'tan korkunuz ve çocuklarınız arasında adaletli olunuz.",
+    "source": "Buhârî, Hibe, 12",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Ebeveynlerin çocuklar arasında ayrım yapması, kardeş kıskançlığına ve aile huzursuzluğuna yol açar.",
+    "topics": "Adalet,Aile,Çocuk"
+  },
+  {
+    "content": "Yedi helak ediciden sakının: Allah'a şirk koşmak, büyü yapmak, haksız yere cana kıymak, faiz yemek, yetim malı yemek...",
+    "source": "Buhârî, Vesâyâ, 23",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İnsanı hem dünyada hem ahirette perişan eden büyük günahlar listelenmiştir.",
+    "topics": "Günah,Haram,Uyarı"
+  },
+  {
+    "content": "Kim bir kötülük görürse onu eliyle düzeltsin...",
+    "source": "Müslim, İman, 78",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Müslüman, gücü yettiğince kötülüğe engel olmalı, toplumsal sorumluluk almalıdır.",
+    "topics": "Sorumluluk,İyilik,Mücadele"
+  },
+  {
+    "content": "Bir topluluk Allah'ı zikretmek üzere bir araya gelirse, melekler onları kuşatır, rahmet onları kaplar.",
+    "source": "Müslim, Zikir, 39",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Birlikte yapılan ibadet ve zikir meclisleri, manevi atmosferin en yoğun olduğu yerlerdir.",
+    "topics": "Zikir,Sohbet,Rahmet"
+  },
+  {
+    "content": "Her kim Allah için tevazu gösterirse, Allah onu yükseltir.",
+    "source": "Müslim, Birr, 69",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Alçakgönüllülük insanı küçültmez, aksine Allah katında ve insanların gözünde değerini artırır.",
+    "topics": "Tevazu,Kibir,Ahlak"
+  },
+  {
+    "content": "Size cehenneme girmesi haram olan kişiyi bildireyim mi? Canıra yakın, yumuşak huylu ve kolaylaştırıcı olan kimsedir.",
+    "source": "Tirmizi, Kıyamet, 45",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İnsanlara karşı sert ve kaba olmayan, geçimi kolay, nazik insanlar Allah'ın azabından uzaktır.",
+    "topics": "Nezaket,Ahlak,Cehennem"
+  },
+  {
+    "content": "Hayra delalet eden, onu yapan gibidir.",
+    "source": "Tirmizi, İlim, 14",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İyiliğe yol göstermek, teşvik etmek, o iyiliğin sevabını kazanmak için yeterlidir.",
+    "topics": "Hayır,Kılavuzluk,Sevap"
+  },
+  {
+    "content": "Dünya lezzetlerini bıçak gibi kesip atan ölümü çokça anınız.",
+    "source": "Tirmizi, Zühd, 4",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Ölümü hatırlamak, insanı dünyevileşmekten ve günahlara dalmaktan alıkoyan en etkili nasihatçidir.",
+    "topics": "Ölüm,Tefekkür,Zühd"
+  },
+  {
+    "content": "Ümmetimden bir grup, kıyamet kopuncaya kadar hak üzere mücadele etmeye devam edecektir.",
+    "source": "Müslim, İmâre, 170",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Hakkı savunanların sayısı azalsa bile, kıyamete kadar hakikati haykıran bir topluluk daima var olacaktır.",
+    "topics": "Hak,Mücadele,Ümit"
+  },
+  {
+    "content": "Doğruluk iyiliğe, iyilik ise cennete götürür.",
+    "source": "Buhârî, Edeb, 69",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Her faziletin başı doğruluktur. Sıddık olanlar, Allah katında en yüksek mertebeye erişirler.",
+    "topics": "Doğruluk,Cennet,Ahlak"
+  },
+  {
+    "content": "Müslüman, Müslümanın kardeşidir. Ona zulmetmez, onu (düşmanına) teslim etmez.",
+    "source": "Buhârî, Mezâlim, 3",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İslam kardeşliği, zor günde birbirine sahip çıkmayı ve asla yalnız bırakmamayı gerektirir.",
+    "topics": "Kardeşlik,Vefa,Yardımlaşma"
+  },
+  {
+    "content": "Kuvvetli mümin, zayıf müminden Allah'a daha sevimli ve daha hayırlıdır.",
+    "source": "Müslim, Kader, 34",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Mümin; imanıyla, ilmiyle, iradesiyle ve bedeniyle güçlü olmalıdır ki İslam'a daha iyi hizmet edebilsin.",
+    "topics": "Güç,İrade,Hizmet"
+  },
+  {
+    "content": "Kim bir yetimin başını Allah rızası için okşarsa, elinin değdiği saç teli sayısınca ona sevap yazılır.",
+    "source": "Ahmed b. Hanbel, Müsned, 5/250",
+    "source_category": "Kütüb-i Sitte Dışı",
+    "authenticity": "Zayıf",
+    "explanation": "Yetimlere şefkat göstermek, kalbi yumuşatan ve Allah'ın rahmetini celbeden en etkili yollardan biridir.",
+    "topics": "Yetim,Şefkat,Sevap"
+  },
+  {
+    "content": "Temizlik, imanın yarısıdır.",
+    "source": "Müslim, Taharet, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Maddi ve manevi kirden arınmak, kamil bir mümin olmanın ön şartıdır.",
+    "topics": "Temizlik,İman,Arınma"
+  },
+  {
+    "content": "Oruç sabrın yarısıdır.",
+    "source": "İbn Mâce, Siyam, 44",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Oruç tutmak, nefsin isteklerine karşı direnmeyi öğreterek insana sabrı kazandırır.",
+    "topics": "Oruç,Sabır,Nefis"
+  },
+  {
+    "content": "Sizin en hayırlınız, ahlakı en güzel olanınızdır.",
+    "source": "Buhârî, Edeb, 38",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İslam'da üstünlük soy sopla değil, karakterin güzelliği ve olgunluğuyladır.",
+    "topics": "Ahlak,Fazilet,Karakter"
+  },
+  {
+    "content": "İnsanlara teşekkür etmeyen, Allah'a da şükretmez.",
+    "source": "Tirmizi, Birr, 35",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İyiliği takdir etmek ve vefalı olmak, şükür bilincinin ilk basamağıdır.",
+    "topics": "Şükür,Vefa,Teşekkür"
+  },
+  {
+    "content": "Zulüm, kıyamet gününde karanlıklar olacaktır.",
+    "source": "Buhârî, Mezâlim, 8",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Dünyada yapılan haksızlıklar, ahirette sahibini kuşatan zifiri karanlıklara ve sıkıntılara dönüşecektir.",
+    "topics": "Zulüm,Ahiret,Adalet"
+  },
+  {
+    "content": "Rızkı yerin derinliklerinde arayınız (Ticaret ve tarım yapınız).",
+    "source": "Taberani, el-Mu'cemü'l-Evsat, 1/285",
+    "source_category": "Diğer",
+    "authenticity": "Zayıf",
+    "explanation": "Çalışmak, üretmek ve yeraltı/yerüstü kaynaklarını işletmek teşvik edilmiştir.",
+    "topics": "Rızık,Çalışma,Üretim"
+  },
+  {
+    "content": "Kim cuma günü abdest alırsa ne güzel! Kim de boy abdesti (gusül) alırsa o daha faziletlidir.",
+    "source": "Ebû Dâvûd, Taharet, 128",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Cuma günü temizlenmek ve güzel kokular sürünmek, o günün maneviyatına saygının bir ifadesidir.",
+    "topics": "Cuma,Temizlik,Gusül"
+  },
+  {
+    "content": "Cehennem, nefse hoş gelen şeylerle kuşatılmıştır; Cennet ise nefsin hoşuna gitmeyen (zorluklarla) kuşatılmıştır.",
+    "source": "Buhârî, Rikak, 28",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Cenneti kazanmak fedakarlık ve disiplin isterken, cehennem yolu keyfi ve sorumsuz davranışlarla doludur.",
+    "topics": "Cennet,Cehennem,Nefis"
+  },
+  {
+    "content": "Kardeşinin yüzüne tebessüm etmen sadakadır.",
+    "source": "Tirmizi, Birr, 36",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Gülümsemek, en kolay ve en etkili iyilik yoludur.",
+    "topics": "Tebessüm,Sadaka,Nezaket"
+  },
+  {
+    "content": "Bizi küçük gören bizden değildir.",
+    "source": "Tirmizi, Birr, 15",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Zayıf",
+    "explanation": "Kibir ve insanları hakir görmek, müslümanın ahlakıyla bağdaşmaz.",
+    "topics": "Kibir,Tevazu,Ahlak"
+  },
+  {
+    "content": "Kim ilim yoluna girerse, Allah ona cennet yolunu kolaylaştırır.",
+    "source": "Ebû Dâvûd, İlim, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Öğrenilen her faydalı bilgi, insanı Allah'a bir adım daha yaklaştırır.",
+    "topics": "İlim,Cennet,Eğitim"
+  },
+  {
+    "content": "Dünya malı tatlı ve yeşildir (caziptir).",
+    "source": "Buhârî, Cihad, 37",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Dünyanın süsü insanı çabuk kandırır; mühim olan ona kapılmadan ahireti kazanmaktır.",
+    "topics": "Dünya,İmtihan,Zühd"
+  },
+  {
+    "content": "Size şüpheli gelen şeyi bırakın, şüphesiz olana yönelin.",
+    "source": "Tirmizi, Kıyamet, 60",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Kalbi huzursuz eden işlerden uzak durmak, vicdanın rahatlamasını ve takvayı sağlar.",
+    "topics": "Takva,Şüphe,Vicdan"
+  },
+  {
+    "content": "Münafığın alameti üçtür: Konuştuğunda yalan söyler, söz verdiğinde durmaz, emanete hıyanet eder.",
+    "source": "Buhârî, İman, 24",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Bu üç özellik, insanın karakterini çürüten ve toplumsal güveni yıkan temel hastalıklardır.",
+    "topics": "Münafıklık,Yalan,Güven"
+  },
+  {
+    "content": "En hayırlı ev, içinde yetime iyilik ve ikram edilen evdir.",
+    "source": "İbn Mâce, Edeb, 6",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Zayıf",
+    "explanation": "Yetimi himaye eden aileler, Allah'ın rahmet ve bereketine en layık olanlardır.",
+    "topics": "Yetim,Aile,İyilik"
+  },
+  {
+    "content": "Allah'a ve ahiret gününe inanan, ya hayır söylesin ya da sussun.",
+    "source": "Müslim, İman, 74",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Sözün sorumluluğunu bilmek, müminin en belirgin vasıflarındandır.",
+    "topics": "Konuşma,Edep,İman"
+  },
+  {
+    "content": "Pehlivan, güreşte insanları yenen değil, öfke anında nefsine hakim olandır.",
+    "source": "Müslim, Birr, 107",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Gerçek güç kaslarda değil, sinirlerine hakim olabilen iradededir.",
+    "topics": "Öfke,İrade,Güç"
+  },
+  {
+    "content": "Cemaatle kılınan namaz, tek başına kılınan namazdan yirmi yedi derece daha faziletlidir.",
+    "source": "Buhârî, Ezan, 30",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İbadetlerin topluca yapılması, birliği, kaynaşmayı ve sevabı artırır.",
+    "topics": "Namaz,Cemaat,Fazilet"
+  },
+  {
+    "content": "Hastaları ziyaret ediniz, açları doyurunuz, esirleri kurtarınız.",
+    "source": "Buhârî, Cihad, 171",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Bu üç emir, sosyal dayanışmanın ve insani yardımın en acil alanlarını işaret eder.",
+    "topics": "Yardımlaşma,Ziyaret,İyilik"
+  },
+  {
+    "content": "Kim bir yolu Müslümanlar için daraltırsa, ona lanet edilir.",
+    "source": "Ahmed b. Hanbel, Müsned, 3/419",
+    "source_category": "Kütüb-i Sitte Dışı",
+    "authenticity": "Zayıf",
+    "explanation": "Kamusal alanları işgal etmek veya insanlara engel olmak kul hakkıdır.",
+    "topics": "Kul Hakkı,Yol,Saygı"
+  },
+  {
+    "content": "Kıyamet günü Allah'ın gölgesinde gölgelenecek yedi sınıftan biri de; neşeyi Rabbine ibadette bulan gençtir.",
+    "source": "Buhârî, Ezan, 36",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Gençliğin enerjisini hayırda ve ibadette kullanmak, çok kıymetli ve zor bir başarıdır.",
+    "topics": "Gençlik,İbadet,Kıyamet"
+  },
+  {
+    "content": "Haramla beslenen vücut ateşe (cehenneme) daha layıktır.",
+    "source": "Taberani, el-Mu'cemü'l-Kebir, 19/136",
+    "source_category": "Diğer",
+    "authenticity": "Zayıf",
+    "explanation": "Boğazdan geçen lokmanın helal olması, manevi hayatın ve ibadetlerin kabulünün temelidir.",
+    "topics": "Helal,Haram,Beslenme"
+  },
+  {
+    "content": "Söz taşıyan (koğuculuk yapan) cennete giremez.",
+    "source": "Buhârî, Edeb, 50",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Laf getirip götürmek, dostlukları bozan ve toplumu ifsat eden büyük bir günahtır.",
+    "topics": "Dedikodu,Dil,Günah"
+  },
+  {
+    "content": "Allah'ın rızası babanın rızasında, Allah'ın gazabı da babanın gazabındadır.",
+    "source": "Tirmizi, Birr, 3",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Anne-baba duası almak, Allah'ın hoşnutluğunu kazanmanın en kestirme yoludur.",
+    "topics": "Anne Baba,Saygı,Rıza"
+  },
+  {
+    "content": "Müminler arasında imanı en kamil olanı, ahlakı en güzel olanıdır.",
+    "source": "Ebû Dâvûd, Sünnet, 15",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İman sadece sözle değil, davranış güzelliği ve karakter sağlamlığıyla tamamlanır.",
+    "topics": "İman,Ahlak,Olgunluk"
+  },
+  {
+    "content": "Cennet kılıçların gölgesi altındadır.",
+    "source": "Buhârî, Cihad, 22",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Vatan ve kutsal değerler uğruna mücadele etmek, zorluklara göğüs germek cennet sebebidir.",
+    "topics": "Cihad,Mücadele,Vatan"
+  },
+  {
+    "content": "Kişi arkadaşının dini üzeredir. Öyleyse her biriniz kiminle arkadaşlık ettiğine dikkat etsin.",
+    "source": "Tirmizi, Zühd, 45",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Hasen",
+    "explanation": "Arkadaş, insanın karakterini şekillendiren en önemli faktördür. İyi dost insanı cennete, kötü dost ateşe sürükler.",
+    "topics": "Dostluk,Arkadaş,Çevre"
+  },
+  {
+    "content": "Akrabalık bağlarını kesen cennete giremez.",
+    "source": "Buhârî, Edeb, 11",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Sıla-i rahim (akrabayı gözetmek), İslam'ın en çok önem verdiği toplumsal görevlerden biridir.",
+    "topics": "Akraba,Sıla-i Rahim,Vefa"
+  },
+  {
+    "content": "Her kim bir Müslümanın ayıbını örterse, Allah da dünya ve ahirette onun ayıbını örter.",
+    "source": "Müslim, Zikir, 38",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Kusur araştırmak değil, örtmek erdemdir. İnsanları utandırmamak mümince bir tavırdır.",
+    "topics": "Kusur Örtme,Ahlak,Rahmet"
+  },
+  {
+    "content": "Namazın anahtarı temizlik (abdest), başlangıcı tekbir, sonu ise selamdır.",
+    "source": "Ebû Dâvûd, Taharet, 31",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Namazın geçerli olması için belirli şartlara ve düzene riayet etmek gerekir.",
+    "topics": "Namaz,Abdest,İbadet"
+  },
+  {
+    "content": "Dua ibadetin özüdür.",
+    "source": "Tirmizi, Dua, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Zayıf",
+    "explanation": "Tüm ibadetlerin temelinde Allah'a yönelmek ve O'ndan istemek vardır.",
+    "topics": "Dua,İbadet,Öz"
+  },
+  {
+    "content": "Allah kuluna, kul kardeşine yardım ettiği müddetçe yardım eder.",
+    "source": "Müslim, Zikir, 38",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İnsanlara yardım etmek, Allah'ın yardımını celb eden en önemli amellerdendir.",
+    "topics": "Yardımlaşma,Allah'ın Yardımı,Kardeşlik"
+  },
+  {
+    "content": "Mümin mümine karşı bir binanın tuğlaları gibidir; birbirini destekler.",
+    "source": "Buhârî, Salat, 88",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Müslümanlar birbirine kenetlenmeli, zayıf anlarında birbirini tutmalıdır.",
+    "topics": "Dayanışma,Birlik,Destek"
+  },
+  {
+    "content": "Bir yemek bir kişiye yetiyorsa iki kişiye de yeter; iki kişiye yetiyorsa dört kişiye de yeter.",
+    "source": "Müslim, Eşribe, 179",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Paylaştıkça artan bereket, cömertliğin ödülüdür.",
+    "topics": "Bereket,Paylaşma,Cömertlik"
+  },
+  {
+    "content": "Kim bir Müslüman kardeşinin ihtiyacını giderirse, Allah da onun ihtiyacını giderir.",
+    "source": "Buhârî, Mezalim, 3",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İyilik yapmak, o iyiliğin misliyle karşılık görmesine vesiledir.",
+    "topics": "Yardım,İyilik,Kardeşlik"
+  },
+  {
+    "content": "Bir kulun dili doğru olmadıkça kalbi doğru olmaz; kalbi doğru olmadıkça imanı da doğru olmaz.",
+    "source": "Ahmed b. Hanbel, Müsned, 3/198",
+    "source_category": "Müsned",
+    "authenticity": "Sahih",
+    "explanation": "Söz ve kalp arasındaki bağ, imanın hakikati için şarttır.",
+    "topics": "Dil,Kalp,İman"
+  },
+  {
+    "content": "Allah Teâlâ, yumuşak huyludur; işlerin hepsinde yumuşak huyluluktan hoşlanır.",
+    "source": "Buhârî, İsti'zan, 22",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Hoşgörü ve yumuşak davranış, hem insanla hem Rabbiyle uyumu sağlar.",
+    "topics": "Yumuşaklık,Hoşgörü,Allah'ın Hoşlanması"
+  },
+  {
+    "content": "Kimin iki günü birbirine eşitse, o aldanmıştır.",
+    "source": "Deylemî, Müsned, 2/326",
+    "source_category": "Diğer",
+    "authenticity": "Zayıf",
+    "explanation": "Sürekli gelişim ve ilerleme, mümine yakışan tavırdır.",
+    "topics": "Gelişim,Zaman,Aldanma"
+  },
+  {
+    "content": "Cenab-ı Allah birinize iş yaptırdığında o işi sağlam yapmasından hoşnut olur.",
+    "source": "Beyhakî, Şuabu'l-İman, 4/334",
+    "source_category": "Diğer",
+    "authenticity": "Sahih",
+    "explanation": "İşini özenle, kaliteli ve sağlam yapan, Allah'ın hoşnutluğunu kazanır.",
+    "topics": "Çalışma,Kalite,İtkan"
+  },
+  {
+    "content": "Oruç bir kalkandır. Oruçlu kimse kötü söz söylemesin ve cahillik yapmasın.",
+    "source": "Buhârî, Savm, 9",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Orucun hakikati sadece yemekten içmekten değil, her türlü kötülükten uzak durmaktır.",
+    "topics": "Oruç,Sabır,Ahlak"
+  },
+  {
+    "content": "Her kim Allah yolunda bir çift (mal) harcarsa, cennetin kapılarından çağrılır: 'Ey Allah'ın kulu, gel burası hayırlıdır.'",
+    "source": "Buhârî, Cihad, 37",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Allah yolunda harcama yapan kişi, cennete davet edilecek bahtiyarlardandır.",
+    "topics": "İnfak,Cennet,Hayır"
+  },
+  {
+    "content": "Ramazan girdiğinde cennet kapıları açılır, cehennem kapıları kapanır ve şeytanlar zincire vurulur.",
+    "source": "Buhârî, Savm, 5",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Ramazan ayı, ilahi rahmetin yeryüzüne yayıldığı mübarek bir dönemdir.",
+    "topics": "Ramazan,Rahmet,Cennet"
+  },
+  {
+    "content": "Kim inanarak ve sevabını Allah'tan bekleyerek Ramazan orucunu tutarsa, geçmiş günahları bağışlanır.",
+    "source": "Buhârî, Savm, 6",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Samimi bir niyetle tutulan oruç, günahların affına vesile olur.",
+    "topics": "Oruç,Mağfiret,İman"
+  },
+  {
+    "content": "Bir namazı kılmadan unutan veya uyuyan kimse, o namazı hatırladığında kılsın.",
+    "source": "Buhârî, Mevakıt, 37",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Namazı kasten terk dışında, unutma veya uyuma mazeret sayılır ve namaz kaza edilir.",
+    "topics": "Namaz,Kaza,Mazeret"
+  },
+  {
+    "content": "Misvak kullanmak ağzı temizler, Rabbi razı eder.",
+    "source": "Nesâî, Taharet, 5",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Temizlik ve bakım, Allah'ın rızasını kazanmanın yollarındandır.",
+    "topics": "Temizlik,Misvak,Allah'ın Rızası"
+  },
+  {
+    "content": "Kim Allah için sever, Allah için buğzeder, Allah için verir ve Allah için vermezse imanını kemale erdirmiştir.",
+    "source": "Ebû Dâvûd, Sünnet, 15",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Hayatın her alanında Allah rızasını esas almak, imanın olgunluğunun göstergesidir.",
+    "topics": "İman,Allah Rızası,Sevgi"
+  },
+  {
+    "content": "Melekler sürekli dua eder: 'Allah'ım, infak edene karşılığını ver, cimrilik edene de telef ver.'",
+    "source": "Buhârî, Zekât, 27",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Cömertlik bereketlenirken, cimrilik kayıplara yol açar.",
+    "topics": "İnfak,Bereket,Cimrilik"
+  },
+  {
+    "content": "Sabır ile sevinç beraberdir. Zorlukla beraber kolaylık vardır.",
+    "source": "Ahmed b. Hanbel, Müsned, 1/307",
+    "source_category": "Müsned",
+    "authenticity": "Sahih",
+    "explanation": "Her zorluktan sonra mutlaka bir kolaylık gelir, sabır anahtardır.",
+    "topics": "Sabır,Kolaylık,Ümit"
+  },
+  {
+    "content": "Rabbim bana güzel ahlakı, güzel ameli ve cömertliği emretti.",
+    "source": "Taberânî, el-Kebîr, 11/267",
+    "source_category": "Diğer",
+    "authenticity": "Sahih",
+    "explanation": "Peygamberimizin hayatı, ahlak, amel ve cömertliğin en güzel örneğidir.",
+    "topics": "Ahlak,Amel,Cömertlik"
+  },
+  {
+    "content": "Allah sizden herhangi birinizin işinizi sağlam yapmasından memnun olur.",
+    "source": "Beyhakî, Şuab, 4/304",
+    "source_category": "Diğer",
+    "authenticity": "Sahih",
+    "explanation": "İşi baştan savma değil özenle yapmak, imanın gereğidir.",
+    "topics": "İş,Kalite,Özen"
+  },
+  {
+    "content": "Hakiki zenginlik, çok mal sahibi olmak değil, kalbin zengin olmasıdır.",
+    "source": "Buhârî, Rikâk, 15",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Gerçek zenginlik gönül huzurudur. Mal artışı mutluluk garantisi değildir.",
+    "topics": "Kanaat,Huzur,Zenginlik"
+  },
+  {
+    "content": "Erkekten âlim olmasa bile ilim öğrenmek kadın için de farzdır.",
+    "source": "İbn Mâce, Mukaddime, 17",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "İlim, cinsiyet ayrımı olmaksızın her Müslümanın görevidir.",
+    "topics": "Kadın,İlim,Eğitim"
+  },
+  {
+    "content": "Her Müslümanın kocasına itaat etmesi ve evini koruması gerekmektedir.",
+    "source": "Nesâî, Zekât, 26",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Aile huzuru için karşılıklı sorumluluk ve sevgi esastır.",
+    "topics": "Aile,Sadakat,Görev"
+  },
+  {
+    "content": "İki zayıfın hakkına dikkat edin: Yetim ve kadın.",
+    "source": "Ebû Dâvûd, Edeb, 132",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Zayıfları korumak, toplumsal adaletin temelidir.",
+    "topics": "Yetim,Kadın Hakları,Adalet"
+  },
+  {
+    "content": "Hayatı boyunca anne-babasına hizmet eden, cennete girecektir.",
+    "source": "Müslim, Birr, 1",
+    "source_category": "Kütüb-i Sitte",
+    "authenticity": "Sahih",
+    "explanation": "Anne-babaya iyilik, cennete götüren en temel amellerdendir.",
+    "topics": "Anne Baba,Hizmet,Cennet"
+  }
+]
