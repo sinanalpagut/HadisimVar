@@ -330,6 +330,21 @@ public class MainActivity extends BaseActivity {
         int hijriDay = l - (709 * hijriMonth) / 24;
         int hijriYear = 30 * n + j - 30;
 
-        return new int[]{hijriYear, hijriMonth, hijriDay};
+        return new int[] { hijriYear, hijriMonth, hijriDay };
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        applyFontSize();
+    }
+
+    /**
+     * Ayarlardaki yazı boyutunu hadis içeriğine uygular.
+     */
+    private void applyFontSize() {
+        android.content.SharedPreferences prefs = getSharedPreferences("settings_prefs", MODE_PRIVATE);
+        float fontSize = prefs.getFloat("font_size", 18f);
+        binding.tvHadithContent.setTextSize(fontSize);
     }
 }
