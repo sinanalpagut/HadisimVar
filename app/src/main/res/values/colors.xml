@@ -104,34 +104,41 @@
     <color name="accent_green">@color/medine_accent</color>
 
     <!-- ═══════════════════════════════════════════════════════════════ -->
-    <!-- ✨ TEMA 7: MİSTİK ALTIN LACİVERT (Lüks & Çekici)              -->
-    <!-- Derin lacivert arka plan, altın vurgular, premium his          -->
+    <!-- ✨ TEMA 7: KOZMIK PREMIUM (Ultra Modern & Lüks)                  -->
+    <!-- Derin uzay mavisi, aurora mor ve altın parıltı                  -->
     <!-- ═══════════════════════════════════════════════════════════════ -->
-    <color name="mistik_primary">#1A237E</color>    <!-- Derin Lacivert -->
-    <color name="mistik_primary_dark">#0D1B3E</color>    <!-- En Koyu Lacivert -->
-    <color name="mistik_primary_light">#3949AB</color>    <!-- Açık Lacivert -->
-    <color name="mistik_primary_mid">#283593</color>    <!-- Orta Lacivert -->
-    <color name="mistik_accent">#FFD700</color>    <!-- Altın Sarısı -->
-    <color name="mistik_accent_light">#FFE54C</color>    <!-- Açık Altın -->
-    <color name="mistik_accent_dark">#FF8F00</color>    <!-- Koyu Altın/Amber -->
-    <color name="mistik_background">#0D1B3E</color>    <!-- Gece Mavisi -->
-    <color name="mistik_surface">#1A237E</color>    <!-- Kart Arka Plan -->
+    <color name="mistik_primary">#0A0E27</color>    <!-- Derin Uzay Mavisi -->
+    <color name="mistik_primary_dark">#050714</color>    <!-- En Koyu Gece -->
+    <color name="mistik_primary_light">#1E3A5F</color>    <!-- Okyanus Mavisi -->
+    <color name="mistik_primary_mid">#141852</color>    <!-- Orta Lacivert -->
+    <color name="mistik_accent">#FFD93D</color>    <!-- Canlı Altın -->
+    <color name="mistik_accent_light">#FFF176</color>    <!-- Açık Altın -->
+    <color name="mistik_accent_dark">#F59E0B</color>    <!-- Amber -->
+    <color name="mistik_background">#0A0E27</color>    <!-- Kozmik Gece -->
+    <color name="mistik_surface">#141852</color>    <!-- Kart Arka Plan -->
     <color name="mistik_on_primary">#FFFFFF</color>    <!-- Beyaz Metin -->
     <color name="mistik_on_background">#E8EAF6</color>    <!-- Açık Mavi Metin -->
+
+    <!-- Neon Glow Renkleri -->
+    <color name="neon_purple">#C084FC</color>    <!-- Neon Mor -->
+    <color name="neon_pink">#FF6B9D</color>    <!-- Neon Pembe -->
+    <color name="neon_blue">#667EEA</color>    <!-- Neon Mavi -->
+    <color name="neon_cyan">#22D3EE</color>    <!-- Neon Cyan -->
+    <color name="neon_green">#34D399</color>    <!-- Neon Yeşil -->
 
     <!-- Glassmorphism Efekt Renkleri -->
     <color name="glass_white_15">#26FFFFFF</color>    <!-- %15 Beyaz -->
     <color name="glass_white_30">#4DFFFFFF</color>    <!-- %30 Beyaz -->
     <color name="glass_white_50">#80FFFFFF</color>    <!-- %50 Beyaz -->
-    <color name="glass_border">#40FFD700</color>    <!-- Altın Kenarlık -->
-    <color name="glass_border_light">#60FFFFFF</color>    <!-- Beyaz Kenarlık -->
+    <color name="glass_border">#40C084FC</color>    <!-- Mor Kenarlık -->
+    <color name="glass_border_light">#40FFFFFF</color>    <!-- Beyaz Kenarlık -->
 
     <!-- Premium Vurgu Renkleri -->
     <color name="coral_red">#FF6B6B</color>    <!-- Coral Kırmızı (FAB) -->
     <color name="coral_dark">#E55353</color>    <!-- Koyu Coral -->
-    <color name="gradient_start">#0D1B3E</color>    <!-- Gradient Başlangıç -->
-    <color name="gradient_center">#1A237E</color>    <!-- Gradient Orta -->
-    <color name="gradient_end">#3949AB</color>    <!-- Gradient Bitiş -->
+    <color name="gradient_start">#0A0E27</color>    <!-- Gradient Başlangıç -->
+    <color name="gradient_center">#141852</color>    <!-- Gradient Orta -->
+    <color name="gradient_end">#1E3A5F</color>    <!-- Gradient Bitiş -->
 
     <!-- Shimmer/Parlama Efekti -->
     <color name="shimmer_gold">#FFFFD740</color>    <!-- Parlak Altın -->
